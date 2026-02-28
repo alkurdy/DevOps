@@ -1,0 +1,43 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+!example.tfvars
+override.tf
+override.tf.json
+crash.log
+crash.*.log
+
+# Ansible
+*.retry
+inventory/host_vars/*secret*
+inventory/group_vars/*secret*
+
+# Docker
+*.tar
+
+# Python (for any automation scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
