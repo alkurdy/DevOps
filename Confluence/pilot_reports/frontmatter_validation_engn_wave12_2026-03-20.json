@@ -1,0 +1,21 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 300,
+  "files_valid": 300,
+  "files_with_issues": 0,
+  "required_keys": [
+    "canonical_topic_id",
+    "content_fingerprint",
+    "curation_tags",
+    "exported_at",
+    "lifecycle_state",
+    "page_id",
+    "redundancy_status",
+    "sensitivity",
+    "source_repo",
+    "source_system",
+    "space_key",
+    "title"
+  ],
+  "issues": []
+}
