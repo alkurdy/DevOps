@@ -1,10 +1,10 @@
 {
   "base": "Texts\\Converted\\Confluence\\JAVA",
-  "files_scanned": 20,
+  "files_scanned": 40,
   "files_modified": 1,
-  "replacements_total": 1,
+  "replacements_total": 2,
   "replacements_by_type": {
-    "email": 1,
+    "email": 2,
     "phone": 0,
     "ssn": 0,
     "aws_access_key": 0,
@@ -15,7 +15,7 @@
     {
       "file": "Texts\\Converted\\Confluence\\JAVA\\computer-science-5046515.md",
       "replacements": {
-        "email": 1
+        "email": 2
       }
     }
   ]

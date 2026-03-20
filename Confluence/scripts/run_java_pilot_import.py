@@ -44,6 +44,25 @@ def prop_text(obj: ET.Element, name: str) -> str:
     return (p.text or "").strip()
 
 
+def prop_body_content(obj: ET.Element) -> str:
+    """Return robust body property content, including nested XML when needed."""
+    p = prop(obj, "body")
+    if p is None:
+        return ""
+
+    text_parts: List[str] = []
+    if p.text:
+        text_parts.append(p.text)
+
+    # Some exports store body payload as nested XML nodes rather than plain text.
+    for child in list(p):
+        text_parts.append(ET.tostring(child, encoding="unicode", method="xml"))
+        if child.tail:
+            text_parts.append(child.tail)
+
+    return "".join(text_parts).strip()
+
+
 def prop_ref_id(obj: ET.Element, name: str) -> str:
     p = prop(obj, name)
     if p is None:
@@ -61,6 +80,10 @@ def normalize_for_fingerprint(text: str) -> str:
 def htmlish_to_markdown(value: str) -> str:
     value = html.unescape(value)
 
+    hrefs = re.findall(r'href="([^"]+)"', value, flags=re.IGNORECASE)
+    srcs = re.findall(r'src="([^"]+)"', value, flags=re.IGNORECASE)
+    attachments = re.findall(r'ri:filename="([^"]+)"', value, flags=re.IGNORECASE)
+
     # Basic structural conversions to preserve readable chunks.
     value = re.sub(r"<\s*br\s*/?>", "\n", value, flags=re.IGNORECASE)
     for level in range(1, 7):
@@ -77,7 +100,27 @@ def htmlish_to_markdown(value: str) -> str:
 
     value = strip_tags(value)
     value = re.sub(r"\n{3,}", "\n\n", value)
-    return value.strip()
+    cleaned = value.strip()
+
+    resources: List[str] = []
+    for link in hrefs + srcs:
+        link = link.strip()
+        if link and link not in resources:
+            resources.append(link)
+
+    for name in attachments:
+        name = name.strip()
+        if name and name not in resources:
+            resources.append(f"attachment:{name}")
+
+    if resources:
+        resource_block = "\n".join(f"- {r}" for r in resources)
+        if cleaned:
+            cleaned = f"{cleaned}\n\n## Embedded Resources\n{resource_block}"
+        else:
+            cleaned = f"## Embedded Resources\n{resource_block}"
+
+    return cleaned.strip()
 
 
 def strip_tags(text: str) -> str:
@@ -124,7 +167,7 @@ def parse_entities(entities_xml: str) -> Tuple[Dict[str, dict], Dict[str, str]]:
 
         elif cls == "BodyContent":
             page_id = prop_ref_id(obj, "content")
-            body = prop_text(obj, "body")
+            body = prop_body_content(obj)
             if not page_id or not body:
                 continue
 
@@ -178,6 +221,11 @@ def main() -> None:
     parser.add_argument("--space-name", default="JAVA")
     parser.add_argument("--limit", type=int, default=20)
     parser.add_argument("--export-date", default=dt.date.today().isoformat())
+    parser.add_argument(
+        "--page-ids",
+        default="",
+        help="Optional comma-separated page IDs for targeted rerun.",
+    )
     args = parser.parse_args()
 
     repo_root = Path(__file__).resolve().parents[2]
@@ -213,7 +261,11 @@ def main() -> None:
         eligible.append((page_id, page, body))
 
     eligible.sort(key=lambda row: sort_key(row[1]), reverse=True)
+
     selected = eligible[: args.limit]
+    target_ids = {x.strip() for x in args.page_ids.split(",") if x.strip()}
+    if target_ids:
+        selected = [row for row in eligible if row[0] in target_ids]
 
     processed = 0
     total_chunks = 0

@@ -1,0 +1,14 @@
+{
+  "run_at": "2026-03-20T12:53:22",
+  "phase": "phase3-controlled-pilot",
+  "space_key": "AGILE",
+  "limit_requested": 20,
+  "pages_eligible": 17,
+  "pages_processed": 17,
+  "chunks_created": 72,
+  "failures": [],
+  "staged_zip": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Originals\\Confluence\\AGILE\\2026-03-20\\Confluence-export-space-agile.zip",
+  "converted_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Converted\\Confluence\\AGILE",
+  "chunked_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Chunked\\Confluence\\AGILE",
+  "manual_gate_required": true
+}

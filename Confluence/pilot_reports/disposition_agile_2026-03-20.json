@@ -1,0 +1,45 @@
+{
+  "changed_files": 10,
+  "changes": [
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-27983873.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-19431449.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-engineering-12091430.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-engineering-28082177.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-12025927.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-27983873.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\prioritizing-tasks-33390600.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\prioritizing-tasks-33685511.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\time-management-for-system-administrators-33325060.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\AGILE\\time-management-for-system-administrators-33357830.md",
+      "action": "set_near_duplicate"
+    }
+  ]
+}

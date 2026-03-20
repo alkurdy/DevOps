@@ -1,0 +1,15 @@
+{
+  "base": "Texts\\Converted\\Confluence\\AGILE",
+  "files_scanned": 17,
+  "files_modified": 0,
+  "replacements_total": 0,
+  "replacements_by_type": {
+    "email": 0,
+    "phone": 0,
+    "ssn": 0,
+    "aws_access_key": 0,
+    "secret_assignment": 0,
+    "internal_ip": 0
+  },
+  "files": []
+}

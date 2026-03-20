@@ -1,0 +1,114 @@
+{
+  "base": "Texts\\Converted\\Confluence\\AGILE",
+  "files_scanned": 17,
+  "topics_with_multiple_pages": 5,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.agile.primer",
+      "content_fingerprint": "d18656c337d38ec2edfb06c81aec4a954186c8268431d1c15e7a70eb0b9e1aee",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-19431449.md",
+          "page_id": "19431449",
+          "title": "Agile Primer"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-27983873.md",
+          "page_id": "27983873",
+          "title": "Agile Primer"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.agile.engineering",
+      "similarity": 0.9611,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-engineering-12091430.md",
+        "page_id": "12091430",
+        "title": "Agile Engineering"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-engineering-28082177.md",
+        "page_id": "28082177",
+        "title": "Agile Engineering"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.agile.primer",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-12025927.md",
+        "page_id": "12025927",
+        "title": "Agile Primer"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-19431449.md",
+        "page_id": "19431449",
+        "title": "Agile Primer"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.agile.primer",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-12025927.md",
+        "page_id": "12025927",
+        "title": "Agile Primer"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-27983873.md",
+        "page_id": "27983873",
+        "title": "Agile Primer"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.prioritizing.tasks",
+      "similarity": 0.9866,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\prioritizing-tasks-33390600.md",
+        "page_id": "33390600",
+        "title": "Prioritizing Tasks"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\prioritizing-tasks-33685511.md",
+        "page_id": "33685511",
+        "title": "Prioritizing Tasks"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.time.management.for.system.administrators",
+      "similarity": 0.9837,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\time-management-for-system-administrators-33325060.md",
+        "page_id": "33325060",
+        "title": "Time Management for System Administrators"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\AGILE\\time-management-for-system-administrators-33357830.md",
+        "page_id": "33357830",
+        "title": "Time Management for System Administrators"
+      }
+    }
+  ],
+  "actionable_exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.agile.primer",
+      "content_fingerprint": "d18656c337d38ec2edfb06c81aec4a954186c8268431d1c15e7a70eb0b9e1aee",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-19431449.md",
+          "page_id": "19431449",
+          "title": "Agile Primer"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\AGILE\\agile-primer-27983873.md",
+          "page_id": "27983873",
+          "title": "Agile Primer"
+        }
+      ]
+    }
+  ],
+  "actionable_exact_duplicate_group_count": 1
+}

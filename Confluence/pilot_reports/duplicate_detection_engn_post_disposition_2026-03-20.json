@@ -1,0 +1,83 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 25,
+  "topics_with_multiple_pages": 4,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.how.to.linux.nfs.mounting.guide",
+      "content_fingerprint": "32f2b3f40190c5266d764196e666113940b59867dd148599afdc32a62977318c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+          "page_id": "264765441",
+          "title": "How-To: Linux NFS Mounting Guide"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+          "page_id": "264765454",
+          "title": "How-To: Linux NFS Mounting Guide"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.kb.azure.traffic.manager.and.azure",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+        "page_id": "266567683",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+        "page_id": "266567698",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.953,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9098,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9164,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    }
+  ],
+  "actionable_exact_duplicate_groups": [],
+  "actionable_exact_duplicate_group_count": 0
+}

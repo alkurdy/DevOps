@@ -78,6 +78,8 @@ def main() -> None:
                 "page_id": fm.get("page_id", ""),
                 "canonical_topic_id": fm.get("canonical_topic_id", ""),
                 "content_fingerprint": fm.get("content_fingerprint", ""),
+                "redundancy_status": fm.get("redundancy_status", ""),
+                "lifecycle_state": fm.get("lifecycle_state", ""),
                 "normalized_content": normalize(extract_content(text)),
             }
         )
@@ -131,6 +133,29 @@ def main() -> None:
         "exact_duplicate_groups": exact_duplicates,
         "near_duplicates": near_duplicates,
     }
+
+    actionable_exact = []
+    for group in exact_duplicates:
+        actionable_members = []
+        for member in group["members"]:
+            row = next((r for r in rows if r["file"] == member["file"]), None)
+            if row is None:
+                continue
+            if row.get("redundancy_status") == "duplicate" or row.get("lifecycle_state") == "legacy":
+                continue
+            actionable_members.append(member)
+
+        if len(actionable_members) > 1:
+            actionable_exact.append(
+                {
+                    "canonical_topic_id": group["canonical_topic_id"],
+                    "content_fingerprint": group["content_fingerprint"],
+                    "members": actionable_members,
+                }
+            )
+
+    report["actionable_exact_duplicate_groups"] = actionable_exact
+    report["actionable_exact_duplicate_group_count"] = len(actionable_exact)
 
     report_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.write_text(json.dumps(report, indent=2), encoding="utf-8")

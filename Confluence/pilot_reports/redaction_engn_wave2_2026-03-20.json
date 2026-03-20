@@ -1,0 +1,22 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 50,
+  "files_modified": 1,
+  "replacements_total": 1,
+  "replacements_by_type": {
+    "email": 0,
+    "phone": 0,
+    "ssn": 0,
+    "aws_access_key": 0,
+    "secret_assignment": 1,
+    "internal_ip": 0
+  },
+  "files": [
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-setting-up-an-azure-virtual-desktop-avd-host-pool-from-start-to-finish-266371073.md",
+      "replacements": {
+        "secret_assignment": 1
+      }
+    }
+  ]
+}

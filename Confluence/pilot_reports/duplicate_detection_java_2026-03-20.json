@@ -1,7 +1,7 @@
 {
   "base": "Texts\\Converted\\Confluence\\JAVA",
-  "files_scanned": 20,
-  "topics_with_multiple_pages": 5,
+  "files_scanned": 40,
+  "topics_with_multiple_pages": 9,
   "exact_duplicate_groups": [
     {
       "canonical_topic_id": "topic.classes.objects.encapsulation.recap.outline",
@@ -42,13 +42,8 @@
     },
     {
       "canonical_topic_id": "topic.powerful.python.content",
-      "content_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "content_fingerprint": "a95d86c7ddf69d10dd03e727a25e39160497756c2e4f5a2792d0c8fd1b35a537",
       "members": [
-        {
-          "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230457362.md",
-          "page_id": "230457362",
-          "title": "Powerful Python Content"
-        },
         {
           "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230916109.md",
           "page_id": "230916109",
@@ -97,6 +92,92 @@
         "page_id": "231112732",
         "title": "Encapsulation: What It Is and Why It Matters"
       }
+    },
+    {
+      "canonical_topic_id": "topic.jupyter.notebook.markdown",
+      "similarity": 0.9455,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\jupyter-notebook-markdown-107937810.md",
+        "page_id": "107937810",
+        "title": "Jupyter Notebook Markdown"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\jupyter-notebook-markdown-107937826.md",
+        "page_id": "107937826",
+        "title": "Jupyter Notebook Markdown"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.knowledge.base.python3.virtual.environments",
+      "similarity": 0.9551,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\knowledge-base-python3-virtual-environments-222789633.md",
+        "page_id": "222789633",
+        "title": "Knowledge Base: Python3 Virtual Environments"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\knowledge-base-python3-virtual-environments-222920706.md",
+        "page_id": "222920706",
+        "title": "Knowledge Base: Python3 Virtual Environments"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.powerful.python.content",
+      "similarity": 0.95,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230457362.md",
+        "page_id": "230457362",
+        "title": "Powerful Python Content"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230916109.md",
+        "page_id": "230916109",
+        "title": "Powerful Python Content"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.powerful.python.content",
+      "similarity": 0.95,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230457362.md",
+        "page_id": "230457362",
+        "title": "Powerful Python Content"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230981635.md",
+        "page_id": "230981635",
+        "title": "Powerful Python Content"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.powerful.python.content",
+      "similarity": 0.95,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230457362.md",
+        "page_id": "230457362",
+        "title": "Powerful Python Content"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230981649.md",
+        "page_id": "230981649",
+        "title": "Powerful Python Content"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.variables.data.types.and.assignment",
+      "similarity": 0.9931,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\variables-data-types-and-assignment-212042058.md",
+        "page_id": "212042058",
+        "title": "Variables, Data Types, and Assignment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\variables-data-types-and-assignment-228360251.md",
+        "page_id": "228360251",
+        "title": "Variables, Data Types, and Assignment"
+      }
     }
-  ]
+  ],
+  "actionable_exact_duplicate_groups": [],
+  "actionable_exact_duplicate_group_count": 0
 }
