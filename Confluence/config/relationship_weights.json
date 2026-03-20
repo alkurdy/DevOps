@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "model": "confluence-systems-intuition",
+  "weights": {
+    "semantic_similarity": 0.30,
+    "tag_overlap": 0.20,
+    "canonical_topic_match": 0.20,
+    "recency": 0.15,
+    "source_quality": 0.10,
+    "user_validation": 0.05
+  },
+  "bands": {
+    "primary": { "min": 0.80, "max": 1.00 },
+    "strong": { "min": 0.60, "max": 0.79 },
+    "context": { "min": 0.40, "max": 0.59 },
+    "hidden": { "min": 0.00, "max": 0.39 }
+  },
+  "tie_breakers": [
+    "prefer_cross_domain",
+    "prefer_explicit_concepts",
+    "prefer_synthesis_validated"
+  ]
+}
