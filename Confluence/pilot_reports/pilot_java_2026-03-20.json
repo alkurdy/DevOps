@@ -1,0 +1,14 @@
+{
+  "run_at": "2026-03-20T11:30:40",
+  "phase": "phase3-controlled-pilot",
+  "space_key": "JAVA",
+  "limit_requested": 20,
+  "pages_eligible": 42,
+  "pages_processed": 20,
+  "chunks_created": 171,
+  "failures": [],
+  "staged_zip": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Originals\\Confluence\\JAVA\\2026-03-20\\Confluence-export-space-java.zip",
+  "converted_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Converted\\Confluence\\JAVA",
+  "chunked_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Chunked\\Confluence\\JAVA",
+  "manual_gate_required": true
+}

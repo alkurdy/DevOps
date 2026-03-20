@@ -1,0 +1,102 @@
+{
+  "base": "Texts\\Converted\\Confluence\\JAVA",
+  "files_scanned": 20,
+  "topics_with_multiple_pages": 5,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.classes.objects.encapsulation.recap.outline",
+      "content_fingerprint": "68d05360bd3a9e2cc7de0ff0372f14e9151dea40f55362d3d2210e9265d6b037",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\classes-objects-encapsulation-recap-outline-231047209.md",
+          "page_id": "231047209",
+          "title": "Classes & Objects (Encapsulation recap) - Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\classes-objects-encapsulation-recap-outline-231112705.md",
+          "page_id": "231112705",
+          "title": "Classes & Objects (Encapsulation recap) - Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\classes-objects-encapsulation-recap-outline-231243777.md",
+          "page_id": "231243777",
+          "title": "Classes & Objects (Encapsulation recap) - Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.introduction.to.classes.and.objects.in",
+      "content_fingerprint": "5f133a3ac14b286d56fd077824e367ab5f5368e52b5ae449360541506c282455",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\introduction-to-classes-and-objects-in-python-230948875.md",
+          "page_id": "230948875",
+          "title": "Introduction to Classes and Objects in Python"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\introduction-to-classes-and-objects-in-python-231047183.md",
+          "page_id": "231047183",
+          "title": "Introduction to Classes and Objects in Python"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.powerful.python.content",
+      "content_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230457362.md",
+          "page_id": "230457362",
+          "title": "Powerful Python Content"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230916109.md",
+          "page_id": "230916109",
+          "title": "Powerful Python Content"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230981635.md",
+          "page_id": "230981635",
+          "title": "Powerful Python Content"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\powerful-python-content-230981649.md",
+          "page_id": "230981649",
+          "title": "Powerful Python Content"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.teaching.advanced.oop.concepts.python.leveraging",
+      "content_fingerprint": "3515d0e22ff90da8023ca9ad3bc6f58afe1ef8d1ccf49562942b799eef946dd0",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\teaching-advanced-oop-concepts-python-leveraging-miller-s-law-230916098.md",
+          "page_id": "230916098",
+          "title": "Teaching Advanced OOP Concepts (Python) Leveraging Miller\u2019s Law"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\JAVA\\teaching-advanced-oop-concepts-python-leveraging-miller-s-law-230981662.md",
+          "page_id": "230981662",
+          "title": "Teaching Advanced OOP Concepts (Python) Leveraging Miller\u2019s Law"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.encapsulation.what.it.is.and.why",
+      "similarity": 0.9939,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\encapsulation-what-it-is-and-why-it-matters-231047198.md",
+        "page_id": "231047198",
+        "title": "Encapsulation: What It Is and Why It Matters"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\JAVA\\encapsulation-what-it-is-and-why-it-matters-231112732.md",
+        "page_id": "231112732",
+        "title": "Encapsulation: What It Is and Why It Matters"
+      }
+    }
+  ]
+}
