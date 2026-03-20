@@ -1,0 +1,46 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 75,
+  "files_modified": 5,
+  "replacements_total": 43,
+  "replacements_by_type": {
+    "email": 2,
+    "phone": 0,
+    "ssn": 0,
+    "aws_access_key": 0,
+    "secret_assignment": 1,
+    "internal_ip": 40
+  },
+  "files": [
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-setting-up-an-azure-virtual-desktop-avd-host-pool-from-start-to-finish-266371073.md",
+      "replacements": {
+        "secret_assignment": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-active-directory-and-non-routable-domain-suffixes-255361027.md",
+      "replacements": {
+        "email": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-practical-subnetting-guide-for-network-design-250085396.md",
+      "replacements": {
+        "internal_ip": 30
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+      "replacements": {
+        "internal_ip": 5
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+      "replacements": {
+        "internal_ip": 5
+      }
+    }
+  ]
+}

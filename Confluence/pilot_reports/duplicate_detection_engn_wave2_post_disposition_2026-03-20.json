@@ -1,0 +1,621 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 50,
+  "topics_with_multiple_pages": 8,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "e76d7d05ed9bfd579b7948d83fdaf021c7c79194bf2612941829870fc0111a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+          "page_id": "258113537",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+          "page_id": "258146339",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.how.to.linux.nfs.mounting.guide",
+      "content_fingerprint": "32f2b3f40190c5266d764196e666113940b59867dd148599afdc32a62977318c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+          "page_id": "264765441",
+          "title": "How-To: Linux NFS Mounting Guide"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+          "page_id": "264765454",
+          "title": "How-To: Linux NFS Mounting Guide"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "306fbcccaf0efc5afa55f8fbe1493882811adf1d1c11ae8bc55ec7c6f31aea85",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+          "page_id": "260112397",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+          "page_id": "260145177",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "fc16549b295f1ea4577027557b603007c7cd9ca5b9435363020333893f627e49",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+          "page_id": "260145191",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+          "page_id": "261783553",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.from.file.chaos.to.database.efficiency",
+      "similarity": 0.9244,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-260112417.md",
+        "page_id": "260112417",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-261750791.md",
+        "page_id": "261750791",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.azure.traffic.manager.and.azure",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+        "page_id": "266567683",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+        "page_id": "266567698",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.953,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9098,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9164,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9923,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9758,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9848,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.977,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9836,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9925,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9781,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9863,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9637,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    }
+  ],
+  "actionable_exact_duplicate_groups": [],
+  "actionable_exact_duplicate_group_count": 0
+}
