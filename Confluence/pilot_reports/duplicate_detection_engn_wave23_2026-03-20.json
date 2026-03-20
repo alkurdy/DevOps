@@ -1,0 +1,3622 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 575,
+  "topics_with_multiple_pages": 100,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.1.1.2.vdi.fundamentals.platform",
+      "content_fingerprint": "babbbb0b4343154001dfdfd380619d4a01524a960229c8d6ca102072ee606680",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989546.md",
+          "page_id": "245989546",
+          "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989557.md",
+          "page_id": "245989557",
+          "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.1.2.manage.access.to.azure",
+      "content_fingerprint": "4ca1f745229f3a2ea387e75495df161252fea6c11e809b61e3c35fcd1d19ecc1",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-231932008.md",
+          "page_id": "231932008",
+          "title": "1.2 Manage Access to Azure Resources"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-232030270.md",
+          "page_id": "232030270",
+          "title": "1.2: Manage Access to Azure Resources"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.1.3.manage.azure.subscriptions.and",
+      "content_fingerprint": "25e74344782c96e37accc7cc6d9cbd15b1539268df3366a57231d4061561d105",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-i-231964731.md",
+          "page_id": "231964731",
+          "title": "1.3 Manage Azure Subscriptions and Governance - Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-ii-231964746.md",
+          "page_id": "231964746",
+          "title": "1.3 Manage Azure Subscriptions and Governance - Part II"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.anatomy.of.a.modern.motherboard",
+      "content_fingerprint": "b06557bccb1f4967a09b21210a3c93a3fe0c369b3dc10c5668958ca8ea685031",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-242548757.md",
+          "page_id": "242548757",
+          "title": "Anatomy of a Modern Motherboard"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-272334849.md",
+          "page_id": "272334849",
+          "title": "\ud83e\udde0 Anatomy of a Modern Motherboard"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configure.access.to.storage.part.iv",
+      "content_fingerprint": "8ce8edf04bf565c6cfc6c4a2d8fce824ecef22b8b5b329ead241c71a85ce822a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238354433.md",
+          "page_id": "238354433",
+          "title": "Configure Access to Storage - Part IV"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238419970.md",
+          "page_id": "238419970",
+          "title": "Configure Access to Storage Part IV"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configuring.and.managing.virtual.networking.in",
+      "content_fingerprint": "087bca6c79105cd8a1368cb0046acb6db6717b9dae56f5b40198151ef8300703",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445844.md",
+          "page_id": "250445844",
+          "title": "Configuring and Managing Virtual Networking in Azure Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445867.md",
+          "page_id": "250445867",
+          "title": "Configuring and Managing Virtual Networking in Azure - Part I"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configuring.role.based.permissions.in.microsoft",
+      "content_fingerprint": "d63f5c19b4d7b16227768bda5f6c0432ecf246950f6c099dd5c88156db7b037c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-247627846.md",
+          "page_id": "247627846",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-part-1-247529533.md",
+          "page_id": "247529533",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager Part 1"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.create.and.configure.virtual.machines.part",
+      "content_fingerprint": "41cc519e5d1524afece6daf470c3b15b8dbdbcb6209c432bfa3a4860562b8b2a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763490.md",
+          "page_id": "239763490",
+          "title": "Create and Configure Virtual Machines - Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763502.md",
+          "page_id": "239763502",
+          "title": "Create and configure virtual machines - Part I"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.das.direct.attached.storage",
+      "content_fingerprint": "31130230413529ad344acd4deff9987c2de6816593bb9d49882997eed189ff72",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240582674.md",
+          "page_id": "240582674",
+          "title": "DAS (Direct-Attached Storage)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240812060.md",
+          "page_id": "240812060",
+          "title": "DAS (Direct-Attached Storage)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "content_fingerprint": "ac413cb7d264d594d78bea4935e3d1c9b2ae78377b4359b4d7807d5de1da81e2",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+          "page_id": "242548791",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+          "page_id": "251002940",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+          "page_id": "251002955",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+          "page_id": "251428887",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+          "page_id": "251428910",
+          "title": "End-to-End Networking for Cloud Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "content_fingerprint": "edb6ebfc379785ffcb171ab9e07cdd7fbb8e5f1715faaa9bc1f7611beabc04a9",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+          "page_id": "250216528",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+          "page_id": "251428865",
+          "title": "End-to-End Networking for Cloud Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "b8fa5eacd0ef54d2113c1ea2c5242a7aa0a2a59fb1ad3738da8414a904b82a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+          "page_id": "257916960",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+          "page_id": "258146307",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+          "page_id": "258310173",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "e76d7d05ed9bfd579b7948d83fdaf021c7c79194bf2612941829870fc0111a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+          "page_id": "258113537",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+          "page_id": "258146339",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+          "page_id": "258211864",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.how.to.linux.nfs.mounting.guide",
+      "content_fingerprint": "32f2b3f40190c5266d764196e666113940b59867dd148599afdc32a62977318c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+          "page_id": "264765441",
+          "title": "How-To: Linux NFS Mounting Guide"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+          "page_id": "264765454",
+          "title": "How-To: Linux NFS Mounting Guide"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.article.how.to.change.the",
+      "content_fingerprint": "70e9c419581187e50f9eb77f7d676c75c1ec685a5182ff6f8324c4ad98d5e6e2",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222724100.md",
+          "page_id": "222724100",
+          "title": "KB Article: How to Change the Hostname on Ubuntu Server"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222756875.md",
+          "page_id": "222756875",
+          "title": "KB Article: How to Change the Hostname on Ubuntu Server"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.configuring.dns.queries.with.systemd",
+      "content_fingerprint": "4087414a443c05f6ae5e86e3b6ba6410ec65323cd39aa471818ab5176b052c46",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-223870991.md",
+          "page_id": "223870991",
+          "title": "KB: Configuring DNS Queries with systemd-resolved on a BIND9 Server"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-224460869.md",
+          "page_id": "224460869",
+          "title": "KB: Configuring DNS Queries with systemd-resolved on a BIND9 Server"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.configuring.firewalls.and.dns.for",
+      "content_fingerprint": "16d19f5c756b640159f881a3cf0d98cba604290a53e639ac52974262ed09c565",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247463950.md",
+          "page_id": "247463950",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247595058.md",
+          "page_id": "247595058",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "content_fingerprint": "3498b68ae9a6e0f7478cf2b83c2c9717ec3ff269ad64789df093bc7d5a030fb3",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+          "page_id": "255229992",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+          "page_id": "255328282",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255524870.md",
+          "page_id": "255524870",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.deploying.microsoft.365.apps.with",
+      "content_fingerprint": "05eff69819032ebc2cf37e972ac95ca830eb9b6cbb17a7ba2474960e793062b6",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250052628.md",
+          "page_id": "250052628",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250118169.md",
+          "page_id": "250118169",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.differences.between.windows.server.standard",
+      "content_fingerprint": "665a72575b0321cdd0a28f133f8ede2684bae034adf87eed9cbfa8f973b1a052",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241270785.md",
+          "page_id": "241270785",
+          "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303567.md",
+          "page_id": "241303567",
+          "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.end.to.end.fibre.channel",
+      "content_fingerprint": "7873188664117794821b3107c08c8bdd7a6a1b1ff4a00671d18603dda6e2da6e",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240418817.md",
+          "page_id": "240418817",
+          "title": "KB: End-to-End Fibre Channel (FC) Configuration for NetApp and VMware vSphere in a VDI Deployment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240681022.md",
+          "page_id": "240681022",
+          "title": "KB: End-to-End Fibre Channel (FC) Configuration for NetApp and VMware vSphere in a VDI Deployment"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.how.to.permanently.set.a",
+      "content_fingerprint": "628e00b3f8b0981f69eaf5c6d5151a1da6c9f34f2714a298fa207234eecc7237",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223805481.md",
+          "page_id": "223805481",
+          "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+          "page_id": "223871003",
+          "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.the.configuration.manager.client",
+      "content_fingerprint": "044a016034f14a813a0c3e4f1ce77d4da57f056809493ed64f074226c6e6e8d9",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244154389.md",
+          "page_id": "244154389",
+          "title": "KB: Installing the Configuration Manager Client Agent via Logon Script / MDT"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244350992.md",
+          "page_id": "244350992",
+          "title": "KB: Installing the Configuration Manager Client Agent via Logon Script / MDT"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.the.configuration.manager.client",
+      "content_fingerprint": "4ed6e5e1c836785067bbba9e4c53257374a3b3f2762d50fde1328cdc8d19e907",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244154400.md",
+          "page_id": "244154400",
+          "title": "KB: Installing the Configuration Manager Client Agent via Third-Party Imaging Tools"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244187177.md",
+          "page_id": "244187177",
+          "title": "KB: Installing the Configuration Manager Client Agent via Third-Party Imaging Tools"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.load.balancing.across.layers.3",
+      "content_fingerprint": "eefee8a8c6ca3332ae4213d33c3fe197e8b79d54dce5359cf5ed20c325647d26",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-219676736.md",
+          "page_id": "219676736",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-257916930.md",
+          "page_id": "257916930",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "content_fingerprint": "e3f4d8aa305d545920c06becccdbf486e0a04cd1e09101bcf4873bc74d00825d",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241696780.md",
+          "page_id": "241696780",
+          "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+          "page_id": "244514837",
+          "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.multi.rack.top.of.rack.switch",
+      "content_fingerprint": "4578331accccbd410ab848f5dcba3180f9f27c36593c3b9fb5ef24cac0c3f040",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052674.md",
+          "page_id": "250052674",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052685.md",
+          "page_id": "250052685",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "content_fingerprint": "4506f1b0a72887047995a881898d794b98303b3ec7af8e4ee5b83b1191ac580d",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222822413.md",
+          "page_id": "222822413",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224395356.md",
+          "page_id": "224395356",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460836.md",
+          "page_id": "224460836",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+          "page_id": "224460857",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.internal.bind9.dns",
+      "content_fingerprint": "e029942074bda80b89d42460e7728427689d40458c1a4baec1766f864d47843c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-223805444.md",
+          "page_id": "223805444",
+          "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+          "page_id": "224067586",
+          "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.storage.engineering.table.of.contents",
+      "content_fingerprint": "420cb160131493a4c7e6e4c1189750539e1d2589fb2db0b67452dd8a773feeeb",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-237305905.md",
+          "page_id": "237305905",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240582726.md",
+          "page_id": "240582726",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240615465.md",
+          "page_id": "240615465",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240681033.md",
+          "page_id": "240681033",
+          "title": "Storage Engineering - Table of Contents"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "306fbcccaf0efc5afa55f8fbe1493882811adf1d1c11ae8bc55ec7c6f31aea85",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+          "page_id": "260112397",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+          "page_id": "260145177",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "fc16549b295f1ea4577027557b603007c7cd9ca5b9435363020333893f627e49",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+          "page_id": "260145191",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+          "page_id": "261783553",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.adventurer.s.guide.to.modern",
+      "content_fingerprint": "7db9a374e279dc0d7d8eac276179f5f35cb15aae63519351d32266d4451cbf38",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-242548805.md",
+          "page_id": "242548805",
+          "title": "The Adventurer\u2019s Guide to Modern RAM"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-272433154.md",
+          "page_id": "272433154",
+          "title": "\ud83e\udde0 The Adventurer\u2019s Guide to Modern RAM"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.arcane.codex.uefi.bios.explained",
+      "content_fingerprint": "7b817a7379962d713384cb2d69acdf14e3f0c9f31d2a7cad14f581fb5edc57cf",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-242614342.md",
+          "page_id": "242614342",
+          "title": "The Arcane Codex: UEFI & BIOS Explained"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-272433167.md",
+          "page_id": "272433167",
+          "title": "\ud83c\udff0 The Arcane Codex: UEFI & BIOS Explained"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.motherboard.codex.a.d.d",
+      "content_fingerprint": "a2acebfeb7f65cea291f82c8f374ca31cb5806ce19740c0b699500257dec52a8",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-242614277.md",
+          "page_id": "242614277",
+          "title": "The Motherboard Codex: A D&D Guide to Choosing the Right Motherboard for Your Business Party"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-272334858.md",
+          "page_id": "272334858",
+          "title": "\ud83e\udddd\u200d\u2642\ufe0f The Motherboard Codex: A D&D Guide to Choosing the Right Motherboard for Your Business Party"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.understanding.small.computer.system.interface.scsi",
+      "content_fingerprint": "6d2d32296d73350ae60a34aa538a49f1832953905b18ddda90d77ca77a5a71d1",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240812035.md",
+          "page_id": "240812035",
+          "title": "Understanding Small Computer System Interface (SCSI)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-252084233.md",
+          "page_id": "252084233",
+          "title": "\ud83d\udcd8 Understanding Small Computer System Interface (SCSI)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "content_fingerprint": "a3615679c0463145dcd5bcb234640d08ae8931f4fc2cd2c926615be3dd2ea0f5",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+          "page_id": "245956696",
+          "title": "VDI Engineer Knowledge Base Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+          "page_id": "245989534",
+          "title": "VDI Engineer Knowledge Base Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "content_fingerprint": "2a9e8c24e195fee37b643518279c6b7d4abb3e86469e0f8381c47e69eba3052b",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+          "page_id": "245956721",
+          "title": "VDI Engineer Knowledge Base Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+          "page_id": "246349861",
+          "title": "VDI Engineer Knowledge Base Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.what.are.path.vector.protocol",
+      "content_fingerprint": "7049e0ae4384c3d18280bab3d1af3fdf0fd17bb3b44fd65b99bbb207af9fc912",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219578499.md",
+          "page_id": "219578499",
+          "title": "What Are Path Vector Protocol?"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219676773.md",
+          "page_id": "219676773",
+          "title": "What Are Path Vector Protocol?"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.what.is.networking.concepts.devices.and",
+      "content_fingerprint": "767943873a356d76ae99c5232fc20cd7c0642712d60747b3d68d35ff23898fba",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+          "page_id": "242647086",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+          "page_id": "251002985",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.windows.activation.methods.for.nonpersistent.vdi",
+      "content_fingerprint": "49a95d94bc3da1abc9886ff94f045c2125a005fd3049aee7a6a008b9dd896777",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-246972419.md",
+          "page_id": "246972419",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-251428952.md",
+          "page_id": "251428952",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.1.1.2.vdi.fundamentals.platform",
+      "similarity": 0.9968,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245956708.md",
+        "page_id": "245956708",
+        "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989546.md",
+        "page_id": "245989546",
+        "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.1.1.2.vdi.fundamentals.platform",
+      "similarity": 0.9968,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245956708.md",
+        "page_id": "245956708",
+        "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989557.md",
+        "page_id": "245989557",
+        "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.1.3.manage.azure.subscriptions.and",
+      "similarity": 0.9978,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-231997505.md",
+        "page_id": "231997505",
+        "title": "1.3 Manage Azure Subscriptions and Governance"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-i-231964731.md",
+        "page_id": "231964731",
+        "title": "1.3 Manage Azure Subscriptions and Governance - Part I"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.1.3.manage.azure.subscriptions.and",
+      "similarity": 0.9978,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-231997505.md",
+        "page_id": "231997505",
+        "title": "1.3 Manage Azure Subscriptions and Governance"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-ii-231964746.md",
+        "page_id": "231964746",
+        "title": "1.3 Manage Azure Subscriptions and Governance - Part II"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.1.how.typical.citrix.virtual.apps",
+      "similarity": 0.9706,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-how-typical-citrix-virtual-apps-and-desktops-deployments-work-245923914.md",
+        "page_id": "245923914",
+        "title": "1. How Typical Citrix Virtual Apps and Desktops Deployments Work"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-how-typical-citrix-virtual-apps-and-desktops-deployments-work-246153258.md",
+        "page_id": "246153258",
+        "title": "1. How Typical Citrix Virtual Apps and Desktops Deployments Work"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.1.pre.requisites.for.learning.ansible",
+      "similarity": 0.9861,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-pre-requisites-for-learning-ansible-219578385.md",
+        "page_id": "219578385",
+        "title": "1. Pre-Requisites for Learning Ansible"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\1-pre-requisites-for-learning-ansible-237043786.md",
+        "page_id": "237043786",
+        "title": "1. Pre-Requisites for Learning Ansible"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.12.ansible.modules.plugins.part.2",
+      "similarity": 0.9891,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\12-ansible-modules-plugins-part-2-237109267.md",
+        "page_id": "237109267",
+        "title": "12. Ansible Modules & Plugins - Part 2"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\12-ansible-modules-plugins-part-2-237109279.md",
+        "page_id": "237109279",
+        "title": "12. Ansible Modules & Plugins - Part 2"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.13.ansible.filters",
+      "similarity": 0.9986,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\13-ansible-filters-237043748.md",
+        "page_id": "237043748",
+        "title": "13. Ansible Filters"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\13-ansible-filters-237174798.md",
+        "page_id": "237174798",
+        "title": "13. Ansible Filters"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.2.introduction.to.ansible",
+      "similarity": 0.9681,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\2-introduction-to-ansible-219578547.md",
+        "page_id": "219578547",
+        "title": "2. Introduction to Ansible"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\2-introduction-to-ansible-221315087.md",
+        "page_id": "221315087",
+        "title": "2. Introduction to Ansible"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.3.ansible.components",
+      "similarity": 0.9815,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\3-ansible-components-221249569.md",
+        "page_id": "221249569",
+        "title": "3. Ansible Components"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\3-ansible-components-221544465.md",
+        "page_id": "221544465",
+        "title": "3. Ansible Components"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.6.1.advanced.techniques.to.target",
+      "similarity": 0.9988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\6-1-advanced-techniques-to-target-specific-managed-nodes-225476663.md",
+        "page_id": "225476663",
+        "title": "6.1 Advanced Techniques To Target Specific Managed Nodes"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\6-1-advanced-techniques-to-target-specific-managed-nodes-225509446.md",
+        "page_id": "225509446",
+        "title": "6.1 Advanced Techniques To Target Specific Managed Nodes"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.6.ansible.inventory.basics",
+      "similarity": 0.9976,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-225509426.md",
+        "page_id": "225509426",
+        "title": "6. Ansible Inventory Basics"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-232947717.md",
+        "page_id": "232947717",
+        "title": "6. Ansible Inventory Basics"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.anatomy.of.a.modern.cpu.central",
+      "similarity": 0.9717,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-cpu-central-processing-unit-242581508.md",
+        "page_id": "242581508",
+        "title": "\ud83e\udde0 Anatomy of a Modern CPU (Central Processing Unit)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-cpu-central-processing-unit-242614289.md",
+        "page_id": "242614289",
+        "title": "\ud83e\udde0 Anatomy of a Modern CPU (Central Processing Unit)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9971,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249167919.md",
+        "page_id": "249167919",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249200684.md",
+        "page_id": "249200684",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9785,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249167919.md",
+        "page_id": "249167919",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249266199.md",
+        "page_id": "249266199",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9813,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249200684.md",
+        "page_id": "249200684",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249266199.md",
+        "page_id": "249266199",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.basic.bash.scripting.and.next.steps",
+      "similarity": 0.9835,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\basic-bash-scripting-and-next-steps-for-higher-level-scripting-219578525.md",
+        "page_id": "219578525",
+        "title": "Basic Bash Scripting and Next Steps for Higher-Level Scripting"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\basic-bash-scripting-and-next-steps-for-higher-level-scripting-219676815.md",
+        "page_id": "219676815",
+        "title": "Basic Bash Scripting and Next Steps for Higher-Level Scripting"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.citrix.vdi.access.methods",
+      "similarity": 0.9792,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\citrix-vdi-access-methods-245956634.md",
+        "page_id": "245956634",
+        "title": "Citrix VDI Access Methods"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\citrix-vdi-access-methods-246153220.md",
+        "page_id": "246153220",
+        "title": "Citrix VDI Access Methods"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.create.and.configure.virtual.machines.part",
+      "similarity": 0.9543,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-ii-239697981.md",
+        "page_id": "239697981",
+        "title": "Create and Configure Virtual Machines - Part II"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-ii-239730713.md",
+        "page_id": "239730713",
+        "title": "Create and Configure Virtual Machines - Part II"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.creating.advanced.playbooks.part.1",
+      "similarity": 0.9977,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-1-227246117.md",
+        "page_id": "227246117",
+        "title": "Creating Advanced Playbooks - Part 1"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-1-232914948.md",
+        "page_id": "232914948",
+        "title": "Creating Advanced Playbooks - Part 1"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.creating.advanced.playbooks.part.2",
+      "similarity": 0.988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-2-232882182.md",
+        "page_id": "232882182",
+        "title": "Creating Advanced Playbooks - Part 2"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-2-232980485.md",
+        "page_id": "232980485",
+        "title": "Creating Advanced Playbooks - Part 2"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+        "page_id": "242548791",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+        "page_id": "250216528",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+        "page_id": "242548791",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+        "page_id": "250216528",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+        "page_id": "251002940",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+        "page_id": "250216528",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+        "page_id": "251002955",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+        "page_id": "250216528",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+        "page_id": "251428887",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+        "page_id": "250216528",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+        "page_id": "251428910",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+        "page_id": "251002940",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+        "page_id": "251002955",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+        "page_id": "251428887",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+        "page_id": "251428910",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.from.file.chaos.to.database.efficiency",
+      "similarity": 0.9244,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-260112417.md",
+        "page_id": "260112417",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-261750791.md",
+        "page_id": "261750791",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.high.availability.in.configuration.manager",
+      "similarity": 0.9678,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\high-availability-in-configuration-manager-244154447.md",
+        "page_id": "244154447",
+        "title": "\ud83d\udd01 High Availability in Configuration Manager"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\high-availability-in-configuration-manager-244220006.md",
+        "page_id": "244220006",
+        "title": "\ud83d\udd01 High Availability in Configuration Manager"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.how.to.cleanly.remove.all.group",
+      "similarity": 0.9554,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-cleanly-remove-all-group-policy-settings-on-windows-241762313.md",
+        "page_id": "241762313",
+        "title": "\ud83e\uddf9 How to Cleanly Remove All Group Policy Settings on Windows"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-cleanly-remove-all-group-policy-settings-on-windows-241860649.md",
+        "page_id": "241860649",
+        "title": "\ud83e\uddf9 How to Cleanly Remove All Group Policy Settings on Windows"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.how.to.keep.linux.repo.packages",
+      "similarity": 0.9918,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-keep-linux-repo-packages-under-control-223805456.md",
+        "page_id": "223805456",
+        "title": "How to Keep Linux Repo Packages Under Control"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-keep-linux-repo-packages-under-control-223805468.md",
+        "page_id": "223805468",
+        "title": "How to Keep Linux Repo Packages Under Control"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.introduction.to.azure.resource.management.iii",
+      "similarity": 0.9711,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-resource-management-iii-231932075.md",
+        "page_id": "231932075",
+        "title": "Introduction to Azure Resource Management III"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-resource-management-iii-231997541.md",
+        "page_id": "231997541",
+        "title": "Introduction to Azure Resource Management III"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.introduction.to.azure.storage",
+      "similarity": 0.9799,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-storage-231964788.md",
+        "page_id": "231964788",
+        "title": "Introduction to Azure Storage"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-storage-233406477.md",
+        "page_id": "233406477",
+        "title": "Introduction to Azure Storage"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.article.how.to.set.a",
+      "similarity": 0.9758,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-set-a-static-ip-address-and-dns-servers-in-linux-222756889.md",
+        "page_id": "222756889",
+        "title": "KB Article: How to Set a Static IP Address and DNS Servers in Linux"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-set-a-static-ip-address-and-dns-servers-in-linux-222920717.md",
+        "page_id": "222920717",
+        "title": "KB Article: How to Set a Static IP Address and DNS Servers in Linux"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.azure.traffic.manager.and.azure",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+        "page_id": "266567683",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+        "page_id": "266567698",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.building.and.configuring.the.state",
+      "similarity": 0.9896,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-building-and-configuring-the-state-migration-point-role-and-fallback-status-point-role-244187238.md",
+        "page_id": "244187238",
+        "title": "KB: Building and Configuring the State Migration Point Role and Fallback Status Point Role"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-building-and-configuring-the-state-migration-point-role-and-fallback-status-point-role-244318238.md",
+        "page_id": "244318238",
+        "title": "KB: Building and Configuring the State Migration Point Role and Fallback Status Point Role"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.chipsets.lanes.and.buses",
+      "similarity": 0.9573,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109357.md",
+        "page_id": "237109357",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109370.md",
+        "page_id": "237109370",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.chipsets.lanes.and.buses",
+      "similarity": 0.9871,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109357.md",
+        "page_id": "237109357",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-272367621.md",
+        "page_id": "272367621",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.chipsets.lanes.and.buses",
+      "similarity": 0.9711,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109370.md",
+        "page_id": "237109370",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-272367621.md",
+        "page_id": "272367621",
+        "title": "KB: Chipsets, Lanes, and Buses"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "similarity": 0.9049,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+        "page_id": "255229992",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+        "page_id": "255262747",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "similarity": 0.9049,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+        "page_id": "255328282",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+        "page_id": "255262747",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.differences.between.windows.server.standard",
+      "similarity": 0.9553,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241270785.md",
+        "page_id": "241270785",
+        "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303556.md",
+        "page_id": "241303556",
+        "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.differences.between.windows.server.standard",
+      "similarity": 0.9468,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303556.md",
+        "page_id": "241303556",
+        "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303567.md",
+        "page_id": "241303567",
+        "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.how.to.install.and.configure",
+      "similarity": 0.9958,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-install-and-configure-the-distribution-point-role-244908069.md",
+        "page_id": "244908069",
+        "title": "KB: How to Install and Configure the Distribution Point Role"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-install-and-configure-the-distribution-point-role-in-configuration-manager-sccm-246906895.md",
+        "page_id": "246906895",
+        "title": "KB: How to Install and Configure the Distribution Point Role in Configuration Manager (SCCM)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.how.to.permanently.set.a",
+      "similarity": 0.9854,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223805481.md",
+        "page_id": "223805481",
+        "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223969306.md",
+        "page_id": "223969306",
+        "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.how.to.permanently.set.a",
+      "similarity": 0.9854,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+        "page_id": "223871003",
+        "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223969306.md",
+        "page_id": "223969306",
+        "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.a.central.administration.site",
+      "similarity": 0.964,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246906948.md",
+        "page_id": "246906948",
+        "title": "KB: Installing a Central Administration Site (CAS)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246939737.md",
+        "page_id": "246939737",
+        "title": "KB: Installing a Central Administration Site (CAS)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.intel.vpro.technology.integration.into",
+      "similarity": 0.9958,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257064964.md",
+        "page_id": "257064964",
+        "title": "KB: Intel vPro Technology: Integration into the EUC/MDM Lifecycle and Support"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257228810.md",
+        "page_id": "257228810",
+        "title": "KB: Intel vPro Technology: Integration into the EUC/MDM Lifecycle and Support"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.machine.based.activation.mba.for",
+      "similarity": 0.9614,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250183727.md",
+        "page_id": "250183727",
+        "title": "KB: Machine-Based Activation (MBA) for Microsoft 365 in VDI: License Storage & Refresh Behavior"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250249235.md",
+        "page_id": "250249235",
+        "title": "KB: Machine-Based Activation (MBA) for Microsoft 365 in VDI: License Storage & Refresh Behavior"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.managing.multiple.netplan.configuration.files",
+      "similarity": 0.948,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-managing-multiple-netplan-configuration-files-222789650.md",
+        "page_id": "222789650",
+        "title": "KB: Managing Multiple Netplan Configuration Files"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-managing-multiple-netplan-configuration-files-223051794.md",
+        "page_id": "223051794",
+        "title": "KB: Managing Multiple Netplan Configuration Files"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.scep.ndes.configuration.and.best",
+      "similarity": 0.9988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-scep-ndes-configuration-and-best-practices-240746534.md",
+        "page_id": "240746534",
+        "title": "KB: SCEP/NDES Configuration and Best Practices"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-scep-ndes-configuration-and-best-practices-241795083.md",
+        "page_id": "241795083",
+        "title": "KB: SCEP/NDES Configuration and Best Practices"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.boundaries.and.boundary.groups",
+      "similarity": 0.9814,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973581.md",
+        "page_id": "244973581",
+        "title": "KB: Understanding Boundaries and Boundary Groups in Configuration Manager"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973600.md",
+        "page_id": "244973600",
+        "title": "KB: Understanding Boundaries and Boundary Groups in Configuration Manager"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.key.size.hash.functions",
+      "similarity": 0.9577,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-key-size-hash-functions-and-best-practices-244547585.md",
+        "page_id": "244547585",
+        "title": "\ud83d\udcd8 KB: Understanding Key Size, Hash Functions, and Best Practices"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-key-size-hash-functions-and-best-practices-244547597.md",
+        "page_id": "244547597",
+        "title": "\ud83d\udcd8 KB: Understanding Key Size, Hash Functions, and Best Practices"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.network.and.host.bits",
+      "similarity": 0.9688,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+        "page_id": "256802821",
+        "title": "KB: Understanding Network and Host Bits in Subnetting"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+        "page_id": "257130498",
+        "title": "KB: Understanding Network and Host Bits in Subnetting"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.san.controller.rack.failure",
+      "similarity": 0.997,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-246939655.md",
+        "page_id": "246939655",
+        "title": "KB: Understanding SAN Controller Rack Failure Impact and Best Practices"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-247103500.md",
+        "page_id": "247103500",
+        "title": "KB: Understanding SAN Controller Rack Failure Impact and Best Practices"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.the.sspi.client.process",
+      "similarity": 0.9812,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-the-sspi-client-process-in-windows-authentication-245334021.md",
+        "page_id": "245334021",
+        "title": "KB: Understanding the SSPI Client Process in Windows Authentication"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-the-sspi-client-process-in-windows-authentication-245432323.md",
+        "page_id": "245432323",
+        "title": "KB: Understanding the SSPI Client Process in Windows Authentication"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.using.sed.for.text.manipulation",
+      "similarity": 0.9891,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-using-sed-for-text-manipulation-in-linux-unix-219676840.md",
+        "page_id": "219676840",
+        "title": "KB: Using sed for Text Manipulation in Linux/Unix"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-using-sed-for-text-manipulation-in-linux-unix-237305885.md",
+        "page_id": "237305885",
+        "title": "KB: Using sed for Text Manipulation in Linux/Unix"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.953,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9098,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9164,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.what.is.database.sharding",
+      "similarity": 0.9843,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-250216552.md",
+        "page_id": "250216552",
+        "title": "KB: What is Database Sharding?"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-261718045.md",
+        "page_id": "261718045",
+        "title": "KB: What is Database Sharding?"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.windows.activation.methods.for.nonpersistent",
+      "similarity": 0.9921,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-246906883.md",
+        "page_id": "246906883",
+        "title": "KB: Windows Activation Methods for Nonpersistent VDI"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-251428968.md",
+        "page_id": "251428968",
+        "title": "KB: Windows Activation Methods for Nonpersistent VDI"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.knowledge.base.article.internet.group.management",
+      "similarity": 0.9823,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-246972444.md",
+        "page_id": "246972444",
+        "title": "\ud83d\udcd8 Knowledge Base Article: Internet Group Management Protocol (IGMP)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-250216483.md",
+        "page_id": "250216483",
+        "title": "\ud83d\udcd8 Knowledge Base Article: Internet Group Management Protocol (IGMP)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.knowledge.base.deploying.microsoft.365.apps",
+      "similarity": 0.9998,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250052618.md",
+        "page_id": "250052618",
+        "title": "Knowledge Base: Deploying Microsoft 365 Apps & Visio Using the Office Deployment Tool (ODT)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250183704.md",
+        "page_id": "250183704",
+        "title": "Knowledge Base: Deploying Microsoft 365 Apps & Visio Using the Office Deployment Tool (ODT)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "similarity": 0.9759,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241696780.md",
+        "page_id": "241696780",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241860620.md",
+        "page_id": "241860620",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "similarity": 0.9999,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241696780.md",
+        "page_id": "241696780",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244482101.md",
+        "page_id": "244482101",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "similarity": 0.9597,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241860620.md",
+        "page_id": "241860620",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244482101.md",
+        "page_id": "244482101",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "similarity": 0.9599,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241860620.md",
+        "page_id": "241860620",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+        "page_id": "244514837",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "similarity": 0.9999,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244482101.md",
+        "page_id": "244482101",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+        "page_id": "244514837",
+        "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.security.components.for.engineers",
+      "similarity": 0.9898,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-security-components-for-engineers-244351060.md",
+        "page_id": "244351060",
+        "title": "Microsoft Security Components for Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-security-components-for-engineers-244482138.md",
+        "page_id": "244482138",
+        "title": "Microsoft Security Components for Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.monitor.resources.in.azure",
+      "similarity": 0.9826,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297804.md",
+        "page_id": "251297804",
+        "title": "Monitor Resources in Azure"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297816.md",
+        "page_id": "251297816",
+        "title": "Monitor Resources in Azure"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.multi.core.processors",
+      "similarity": 0.9914,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\multi-core-processors-218398776.md",
+        "page_id": "218398776",
+        "title": "Multi-Core Processors"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\multi-core-processors-218464283.md",
+        "page_id": "218464283",
+        "title": "Multi-Core Processors"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.network.troubleshooting.basics",
+      "similarity": 0.9847,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\network-troubleshooting-basics-12124215.md",
+        "page_id": "12124215",
+        "title": "Network Troubleshooting Basics"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\network-troubleshooting-basics-219578427.md",
+        "page_id": "219578427",
+        "title": "Network Troubleshooting Basics"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.ntfs.and.refs",
+      "similarity": 0.9806,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251297828.md",
+        "page_id": "251297828",
+        "title": "NTFS and ReFS"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251330566.md",
+        "page_id": "251330566",
+        "title": "NTFS and ReFS"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.database.design.for.data.engineers",
+      "similarity": 0.9805,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-250052711.md",
+        "page_id": "250052711",
+        "title": "Outline: Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-259948545.md",
+        "page_id": "259948545",
+        "title": "Outline: Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.euc.systems.engineer.storage.solutions",
+      "similarity": 0.9824,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250183849.md",
+        "page_id": "250183849",
+        "title": "Outline: EUC Systems Engineer Storage Solutions"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250249347.md",
+        "page_id": "250249347",
+        "title": "Outline: EUC Systems Engineer Storage Solutions"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.monitoring.and.logging.in.azure",
+      "similarity": 0.96,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251199497.md",
+        "page_id": "251199497",
+        "title": "Outline: Monitoring and Logging in Azure with Azure Monitor and Log Analytics"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251265025.md",
+        "page_id": "251265025",
+        "title": "Outline: Monitoring and Logging in Azure with Azure Monitor and Log Analytics"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.pci.peripheral.component.interconnect.and.pcie",
+      "similarity": 0.9931,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\pci-peripheral-component-interconnect-and-pcie-peripheral-component-interconnect-express-218300487.md",
+        "page_id": "218300487",
+        "title": "PCI (Peripheral Component Interconnect) and PCIe (Peripheral Component Interconnect Express)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\pci-peripheral-component-interconnect-and-pcie-peripheral-component-interconnect-express-218365971.md",
+        "page_id": "218365971",
+        "title": "PCI (Peripheral Component Interconnect) and PCIe (Peripheral Component Interconnect Express)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.pre.requisites.for.learning.ansible",
+      "similarity": 0.9853,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\pre-requisites-for-learning-ansible-219676853.md",
+        "page_id": "219676853",
+        "title": "Pre-Requisites for Learning Ansible"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\pre-requisites-for-learning-ansible-221282310.md",
+        "page_id": "221282310",
+        "title": "Pre-Requisites for Learning Ansible"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.public.key.infrastructure.pki",
+      "similarity": 0.9862,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\public-key-infrastructure-pki-240582748.md",
+        "page_id": "240582748",
+        "title": "Public Key Infrastructure (PKI)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\public-key-infrastructure-pki-240681069.md",
+        "page_id": "240681069",
+        "title": "Public Key Infrastructure (PKI)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.runbook.hypervisor.server.deployment",
+      "similarity": 0.9611,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246677505.md",
+        "page_id": "246677505",
+        "title": "Runbook: Hypervisor Server Deployment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246710276.md",
+        "page_id": "246710276",
+        "title": "Runbook: Hypervisor Server Deployment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.runbook.hypervisor.server.deployment",
+      "similarity": 0.9748,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246677505.md",
+        "page_id": "246677505",
+        "title": "Runbook: Hypervisor Server Deployment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-247103489.md",
+        "page_id": "247103489",
+        "title": "Runbook: Hypervisor Server Deployment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.runbook.hypervisor.server.deployment",
+      "similarity": 0.987,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246710276.md",
+        "page_id": "246710276",
+        "title": "Runbook: Hypervisor Server Deployment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-247103489.md",
+        "page_id": "247103489",
+        "title": "Runbook: Hypervisor Server Deployment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9694,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222887944.md",
+        "page_id": "222887944",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224362543.md",
+        "page_id": "224362543",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9341,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222887944.md",
+        "page_id": "222887944",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224395356.md",
+        "page_id": "224395356",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9341,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222887944.md",
+        "page_id": "222887944",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460836.md",
+        "page_id": "224460836",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9341,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222887944.md",
+        "page_id": "222887944",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+        "page_id": "224460857",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9633,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224362543.md",
+        "page_id": "224362543",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224395356.md",
+        "page_id": "224395356",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9633,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224362543.md",
+        "page_id": "224362543",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460836.md",
+        "page_id": "224460836",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "similarity": 0.9633,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224362543.md",
+        "page_id": "224362543",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+        "page_id": "224460857",
+        "title": "Setting Up an Ansible Training/Testing Environment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.internal.bind9.dns",
+      "similarity": 0.988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-223805444.md",
+        "page_id": "223805444",
+        "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224002051.md",
+        "page_id": "224002051",
+        "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.internal.bind9.dns",
+      "similarity": 0.988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224002051.md",
+        "page_id": "224002051",
+        "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+        "page_id": "224067586",
+        "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.sizing.and.scaling.containers.in.azure",
+      "similarity": 0.9699,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249167951.md",
+        "page_id": "249167951",
+        "title": "Sizing and Scaling Containers in Azure"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249233437.md",
+        "page_id": "249233437",
+        "title": "Sizing and Scaling Containers in Azure"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9923,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9758,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9848,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.977,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9836,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9925,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9781,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9863,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9637,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.understanding.block.storage.architecture.components.and",
+      "similarity": 0.988,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-block-storage-architecture-components-and-use-cases-13729838.md",
+        "page_id": "13729838",
+        "title": "\ud83d\uddc3\ufe0f Understanding Block Storage: Architecture, Components, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-block-storage-architecture-components-and-use-cases-240681057.md",
+        "page_id": "240681057",
+        "title": "\ud83d\uddc3\ufe0f Understanding Block Storage: Architecture, Components, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.understanding.iscsi.internet.small.computer.system",
+      "similarity": 0.9896,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-iscsi-internet-small-computer-system-interface-13729850.md",
+        "page_id": "13729850",
+        "title": "\ud83d\udcd8 Understanding iSCSI: Internet Small Computer System Interface"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-iscsi-internet-small-computer-system-interface-240582662.md",
+        "page_id": "240582662",
+        "title": "\ud83d\udcd8 Understanding iSCSI: Internet Small Computer System Interface"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.understanding.object.storage.architecture.components.and",
+      "similarity": 0.9794,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-object-storage-architecture-components-and-use-cases-13729814.md",
+        "page_id": "13729814",
+        "title": "\ud83d\udce6 Understanding Object Storage: Architecture, Components, and Use Cases"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-object-storage-architecture-components-and-use-cases-240582714.md",
+        "page_id": "240582714",
+        "title": "\ud83d\udce6 Understanding Object Storage: Architecture, Components, and Use Cases"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.understanding.small.computer.system.interface.scsi",
+      "similarity": 0.9845,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240680985.md",
+        "page_id": "240680985",
+        "title": "\ud83d\udcd8 Understanding Small Computer System Interface (SCSI)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240812035.md",
+        "page_id": "240812035",
+        "title": "Understanding Small Computer System Interface (SCSI)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.understanding.small.computer.system.interface.scsi",
+      "similarity": 0.9845,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240680985.md",
+        "page_id": "240680985",
+        "title": "\ud83d\udcd8 Understanding Small Computer System Interface (SCSI)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-252084233.md",
+        "page_id": "252084233",
+        "title": "\ud83d\udcd8 Understanding Small Computer System Interface (SCSI)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9804,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+        "page_id": "245956696",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+        "page_id": "245956721",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9804,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+        "page_id": "245956696",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+        "page_id": "246349861",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9631,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+        "page_id": "245956696",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+        "page_id": "246349875",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9804,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+        "page_id": "245956721",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+        "page_id": "245989534",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9834,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+        "page_id": "245956721",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+        "page_id": "246349875",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9005,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989500.md",
+        "page_id": "245989500",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+        "page_id": "246349875",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9804,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+        "page_id": "245989534",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+        "page_id": "246349861",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9631,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+        "page_id": "245989534",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+        "page_id": "246349875",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "similarity": 0.9834,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+        "page_id": "246349861",
+        "title": "VDI Engineer Knowledge Base Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+        "page_id": "246349875",
+        "title": "VDI Engineer Knowledge Base Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.what.is.networking.concepts.devices.and",
+      "similarity": 0.9427,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+        "page_id": "242647086",
+        "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002973.md",
+        "page_id": "251002973",
+        "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.what.is.networking.concepts.devices.and",
+      "similarity": 0.9031,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002973.md",
+        "page_id": "251002973",
+        "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+        "page_id": "251002985",
+        "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.what.is.radius",
+      "similarity": 0.983,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-radius-233406465.md",
+        "page_id": "233406465",
+        "title": "What is RADIUS"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-radius-241729566.md",
+        "page_id": "241729566",
+        "title": "What is RADIUS"
+      }
+    }
+  ],
+  "actionable_exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.1.1.2.vdi.fundamentals.platform",
+      "content_fingerprint": "babbbb0b4343154001dfdfd380619d4a01524a960229c8d6ca102072ee606680",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989546.md",
+          "page_id": "245989546",
+          "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989557.md",
+          "page_id": "245989557",
+          "title": "1.1.2 VDI Fundamentals: Platform Comparison Deep Dive \u2013 Differentiators & Strategic Selection"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.1.2.manage.access.to.azure",
+      "content_fingerprint": "4ca1f745229f3a2ea387e75495df161252fea6c11e809b61e3c35fcd1d19ecc1",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-231932008.md",
+          "page_id": "231932008",
+          "title": "1.2 Manage Access to Azure Resources"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-232030270.md",
+          "page_id": "232030270",
+          "title": "1.2: Manage Access to Azure Resources"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.1.3.manage.azure.subscriptions.and",
+      "content_fingerprint": "25e74344782c96e37accc7cc6d9cbd15b1539268df3366a57231d4061561d105",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-i-231964731.md",
+          "page_id": "231964731",
+          "title": "1.3 Manage Azure Subscriptions and Governance - Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-ii-231964746.md",
+          "page_id": "231964746",
+          "title": "1.3 Manage Azure Subscriptions and Governance - Part II"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.anatomy.of.a.modern.motherboard",
+      "content_fingerprint": "b06557bccb1f4967a09b21210a3c93a3fe0c369b3dc10c5668958ca8ea685031",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-242548757.md",
+          "page_id": "242548757",
+          "title": "Anatomy of a Modern Motherboard"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-272334849.md",
+          "page_id": "272334849",
+          "title": "\ud83e\udde0 Anatomy of a Modern Motherboard"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configure.access.to.storage.part.iv",
+      "content_fingerprint": "8ce8edf04bf565c6cfc6c4a2d8fce824ecef22b8b5b329ead241c71a85ce822a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238354433.md",
+          "page_id": "238354433",
+          "title": "Configure Access to Storage - Part IV"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238419970.md",
+          "page_id": "238419970",
+          "title": "Configure Access to Storage Part IV"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configuring.and.managing.virtual.networking.in",
+      "content_fingerprint": "087bca6c79105cd8a1368cb0046acb6db6717b9dae56f5b40198151ef8300703",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445844.md",
+          "page_id": "250445844",
+          "title": "Configuring and Managing Virtual Networking in Azure Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445867.md",
+          "page_id": "250445867",
+          "title": "Configuring and Managing Virtual Networking in Azure - Part I"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configuring.role.based.permissions.in.microsoft",
+      "content_fingerprint": "d63f5c19b4d7b16227768bda5f6c0432ecf246950f6c099dd5c88156db7b037c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-247627846.md",
+          "page_id": "247627846",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-part-1-247529533.md",
+          "page_id": "247529533",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager Part 1"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.create.and.configure.virtual.machines.part",
+      "content_fingerprint": "41cc519e5d1524afece6daf470c3b15b8dbdbcb6209c432bfa3a4860562b8b2a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763490.md",
+          "page_id": "239763490",
+          "title": "Create and Configure Virtual Machines - Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763502.md",
+          "page_id": "239763502",
+          "title": "Create and configure virtual machines - Part I"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.das.direct.attached.storage",
+      "content_fingerprint": "31130230413529ad344acd4deff9987c2de6816593bb9d49882997eed189ff72",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240582674.md",
+          "page_id": "240582674",
+          "title": "DAS (Direct-Attached Storage)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240812060.md",
+          "page_id": "240812060",
+          "title": "DAS (Direct-Attached Storage)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "content_fingerprint": "ac413cb7d264d594d78bea4935e3d1c9b2ae78377b4359b4d7807d5de1da81e2",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+          "page_id": "242548791",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+          "page_id": "251002940",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+          "page_id": "251002955",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+          "page_id": "251428887",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+          "page_id": "251428910",
+          "title": "End-to-End Networking for Cloud Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "content_fingerprint": "edb6ebfc379785ffcb171ab9e07cdd7fbb8e5f1715faaa9bc1f7611beabc04a9",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+          "page_id": "250216528",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+          "page_id": "251428865",
+          "title": "End-to-End Networking for Cloud Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "b8fa5eacd0ef54d2113c1ea2c5242a7aa0a2a59fb1ad3738da8414a904b82a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+          "page_id": "257916960",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+          "page_id": "258146307",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+          "page_id": "258310173",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "e76d7d05ed9bfd579b7948d83fdaf021c7c79194bf2612941829870fc0111a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+          "page_id": "258113537",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+          "page_id": "258146339",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+          "page_id": "258211864",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.how.to.linux.nfs.mounting.guide",
+      "content_fingerprint": "32f2b3f40190c5266d764196e666113940b59867dd148599afdc32a62977318c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+          "page_id": "264765441",
+          "title": "How-To: Linux NFS Mounting Guide"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+          "page_id": "264765454",
+          "title": "How-To: Linux NFS Mounting Guide"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.article.how.to.change.the",
+      "content_fingerprint": "70e9c419581187e50f9eb77f7d676c75c1ec685a5182ff6f8324c4ad98d5e6e2",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222724100.md",
+          "page_id": "222724100",
+          "title": "KB Article: How to Change the Hostname on Ubuntu Server"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222756875.md",
+          "page_id": "222756875",
+          "title": "KB Article: How to Change the Hostname on Ubuntu Server"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.configuring.dns.queries.with.systemd",
+      "content_fingerprint": "4087414a443c05f6ae5e86e3b6ba6410ec65323cd39aa471818ab5176b052c46",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-223870991.md",
+          "page_id": "223870991",
+          "title": "KB: Configuring DNS Queries with systemd-resolved on a BIND9 Server"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-224460869.md",
+          "page_id": "224460869",
+          "title": "KB: Configuring DNS Queries with systemd-resolved on a BIND9 Server"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.configuring.firewalls.and.dns.for",
+      "content_fingerprint": "16d19f5c756b640159f881a3cf0d98cba604290a53e639ac52974262ed09c565",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247463950.md",
+          "page_id": "247463950",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247595058.md",
+          "page_id": "247595058",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "content_fingerprint": "3498b68ae9a6e0f7478cf2b83c2c9717ec3ff269ad64789df093bc7d5a030fb3",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+          "page_id": "255229992",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+          "page_id": "255328282",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255524870.md",
+          "page_id": "255524870",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.deploying.microsoft.365.apps.with",
+      "content_fingerprint": "05eff69819032ebc2cf37e972ac95ca830eb9b6cbb17a7ba2474960e793062b6",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250052628.md",
+          "page_id": "250052628",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250118169.md",
+          "page_id": "250118169",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.differences.between.windows.server.standard",
+      "content_fingerprint": "665a72575b0321cdd0a28f133f8ede2684bae034adf87eed9cbfa8f973b1a052",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241270785.md",
+          "page_id": "241270785",
+          "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303567.md",
+          "page_id": "241303567",
+          "title": "\ud83d\udcd8KB: Differences Between Windows Server Standard and Datacenter Editions"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.end.to.end.fibre.channel",
+      "content_fingerprint": "7873188664117794821b3107c08c8bdd7a6a1b1ff4a00671d18603dda6e2da6e",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240418817.md",
+          "page_id": "240418817",
+          "title": "KB: End-to-End Fibre Channel (FC) Configuration for NetApp and VMware vSphere in a VDI Deployment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240681022.md",
+          "page_id": "240681022",
+          "title": "KB: End-to-End Fibre Channel (FC) Configuration for NetApp and VMware vSphere in a VDI Deployment"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.how.to.permanently.set.a",
+      "content_fingerprint": "628e00b3f8b0981f69eaf5c6d5151a1da6c9f34f2714a298fa207234eecc7237",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223805481.md",
+          "page_id": "223805481",
+          "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+          "page_id": "223871003",
+          "title": "KB: How to Permanently Set a Custom DNS Server on Ubuntu (Bypassing systemd-resolved)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.the.configuration.manager.client",
+      "content_fingerprint": "044a016034f14a813a0c3e4f1ce77d4da57f056809493ed64f074226c6e6e8d9",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244154389.md",
+          "page_id": "244154389",
+          "title": "KB: Installing the Configuration Manager Client Agent via Logon Script / MDT"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244350992.md",
+          "page_id": "244350992",
+          "title": "KB: Installing the Configuration Manager Client Agent via Logon Script / MDT"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.the.configuration.manager.client",
+      "content_fingerprint": "4ed6e5e1c836785067bbba9e4c53257374a3b3f2762d50fde1328cdc8d19e907",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244154400.md",
+          "page_id": "244154400",
+          "title": "KB: Installing the Configuration Manager Client Agent via Third-Party Imaging Tools"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244187177.md",
+          "page_id": "244187177",
+          "title": "KB: Installing the Configuration Manager Client Agent via Third-Party Imaging Tools"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.load.balancing.across.layers.3",
+      "content_fingerprint": "eefee8a8c6ca3332ae4213d33c3fe197e8b79d54dce5359cf5ed20c325647d26",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-219676736.md",
+          "page_id": "219676736",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-257916930.md",
+          "page_id": "257916930",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.microsoft.kerberos.authentication.architecture.flow.and",
+      "content_fingerprint": "e3f4d8aa305d545920c06becccdbf486e0a04cd1e09101bcf4873bc74d00825d",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241696780.md",
+          "page_id": "241696780",
+          "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+          "page_id": "244514837",
+          "title": "\ud83d\udd10 Microsoft Kerberos Authentication: Architecture, Flow, and Use Cases"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.multi.rack.top.of.rack.switch",
+      "content_fingerprint": "4578331accccbd410ab848f5dcba3180f9f27c36593c3b9fb5ef24cac0c3f040",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052674.md",
+          "page_id": "250052674",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052685.md",
+          "page_id": "250052685",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.ansible.training.testing",
+      "content_fingerprint": "4506f1b0a72887047995a881898d794b98303b3ec7af8e4ee5b83b1191ac580d",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222822413.md",
+          "page_id": "222822413",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224395356.md",
+          "page_id": "224395356",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460836.md",
+          "page_id": "224460836",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+          "page_id": "224460857",
+          "title": "Setting Up an Ansible Training/Testing Environment"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.setting.up.an.internal.bind9.dns",
+      "content_fingerprint": "e029942074bda80b89d42460e7728427689d40458c1a4baec1766f864d47843c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-223805444.md",
+          "page_id": "223805444",
+          "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+          "page_id": "224067586",
+          "title": "Setting Up an Internal BIND9 DNS Server on Ubuntu"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.storage.engineering.table.of.contents",
+      "content_fingerprint": "420cb160131493a4c7e6e4c1189750539e1d2589fb2db0b67452dd8a773feeeb",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-237305905.md",
+          "page_id": "237305905",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240582726.md",
+          "page_id": "240582726",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240615465.md",
+          "page_id": "240615465",
+          "title": "Storage Engineering - Table of Contents"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240681033.md",
+          "page_id": "240681033",
+          "title": "Storage Engineering - Table of Contents"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "306fbcccaf0efc5afa55f8fbe1493882811adf1d1c11ae8bc55ec7c6f31aea85",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+          "page_id": "260112397",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+          "page_id": "260145177",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "fc16549b295f1ea4577027557b603007c7cd9ca5b9435363020333893f627e49",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+          "page_id": "260145191",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+          "page_id": "261783553",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.adventurer.s.guide.to.modern",
+      "content_fingerprint": "7db9a374e279dc0d7d8eac276179f5f35cb15aae63519351d32266d4451cbf38",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-242548805.md",
+          "page_id": "242548805",
+          "title": "The Adventurer\u2019s Guide to Modern RAM"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-272433154.md",
+          "page_id": "272433154",
+          "title": "\ud83e\udde0 The Adventurer\u2019s Guide to Modern RAM"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.arcane.codex.uefi.bios.explained",
+      "content_fingerprint": "7b817a7379962d713384cb2d69acdf14e3f0c9f31d2a7cad14f581fb5edc57cf",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-242614342.md",
+          "page_id": "242614342",
+          "title": "The Arcane Codex: UEFI & BIOS Explained"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-272433167.md",
+          "page_id": "272433167",
+          "title": "\ud83c\udff0 The Arcane Codex: UEFI & BIOS Explained"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.the.motherboard.codex.a.d.d",
+      "content_fingerprint": "a2acebfeb7f65cea291f82c8f374ca31cb5806ce19740c0b699500257dec52a8",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-242614277.md",
+          "page_id": "242614277",
+          "title": "The Motherboard Codex: A D&D Guide to Choosing the Right Motherboard for Your Business Party"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-272334858.md",
+          "page_id": "272334858",
+          "title": "\ud83e\udddd\u200d\u2642\ufe0f The Motherboard Codex: A D&D Guide to Choosing the Right Motherboard for Your Business Party"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.understanding.small.computer.system.interface.scsi",
+      "content_fingerprint": "6d2d32296d73350ae60a34aa538a49f1832953905b18ddda90d77ca77a5a71d1",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240812035.md",
+          "page_id": "240812035",
+          "title": "Understanding Small Computer System Interface (SCSI)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-252084233.md",
+          "page_id": "252084233",
+          "title": "\ud83d\udcd8 Understanding Small Computer System Interface (SCSI)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "content_fingerprint": "a3615679c0463145dcd5bcb234640d08ae8931f4fc2cd2c926615be3dd2ea0f5",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+          "page_id": "245956696",
+          "title": "VDI Engineer Knowledge Base Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+          "page_id": "245989534",
+          "title": "VDI Engineer Knowledge Base Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.vdi.engineer.knowledge.base.outline",
+      "content_fingerprint": "2a9e8c24e195fee37b643518279c6b7d4abb3e86469e0f8381c47e69eba3052b",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+          "page_id": "245956721",
+          "title": "VDI Engineer Knowledge Base Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+          "page_id": "246349861",
+          "title": "VDI Engineer Knowledge Base Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.what.are.path.vector.protocol",
+      "content_fingerprint": "7049e0ae4384c3d18280bab3d1af3fdf0fd17bb3b44fd65b99bbb207af9fc912",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219578499.md",
+          "page_id": "219578499",
+          "title": "What Are Path Vector Protocol?"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219676773.md",
+          "page_id": "219676773",
+          "title": "What Are Path Vector Protocol?"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.what.is.networking.concepts.devices.and",
+      "content_fingerprint": "767943873a356d76ae99c5232fc20cd7c0642712d60747b3d68d35ff23898fba",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+          "page_id": "242647086",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+          "page_id": "251002985",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.windows.activation.methods.for.nonpersistent.vdi",
+      "content_fingerprint": "49a95d94bc3da1abc9886ff94f045c2125a005fd3049aee7a6a008b9dd896777",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-246972419.md",
+          "page_id": "246972419",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-251428952.md",
+          "page_id": "251428952",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        }
+      ]
+    }
+  ],
+  "actionable_exact_duplicate_group_count": 41
+}

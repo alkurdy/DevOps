@@ -1,0 +1,27 @@
+{
+  "run_at": "2026-03-20T15:11:27",
+  "space": "ENGN",
+  "date": "2026-03-20",
+  "start_wave": 37,
+  "start_limit": 902,
+  "end_limit": 902,
+  "step": 25,
+  "waves_run": 1,
+  "summary": [
+    {
+      "wave": 37,
+      "limit": 902,
+      "pages_eligible": 902,
+      "pages_processed": 902,
+      "chunks_created": 9144,
+      "failures": 0,
+      "redaction_total": 396,
+      "frontmatter_valid": 902,
+      "frontmatter_scanned": 902,
+      "pre_actionable_exact": 56,
+      "post_actionable_exact": 0,
+      "near_duplicates_post": 0,
+      "topics_with_multiple_pages": 165
+    }
+  ]
+}

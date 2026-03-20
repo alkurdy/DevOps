@@ -1,0 +1,1253 @@
+{
+  "changed_files": 312,
+  "changes": [
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989557.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989546.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-232030270.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-2-manage-access-to-azure-resources-231932008.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-ii-231964746.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-i-231964731.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\amazon-s3-simple-storage-service-158368059.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\amazon-s3-simple-storage-service-156729345.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-272334849.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-motherboard-242548757.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\arch-linux-dns-configuration-and-troubleshooting-203948101.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\arch-linux-dns-configuration-and-troubleshooting-203751517.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238419970.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configure-access-to-storage-part-iv-238354433.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445867.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445844.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-247627846.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-part-1-247529533.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763502.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-i-239763490.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240812060.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\das-direct-attached-storage-240582674.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-250216528.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\firmware-19759105.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\firmware-19562509.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-customize-ubuntu-server-login-page-215646265.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-customize-ubuntu-server-login-page-215613495.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-customize-ubuntu-server-login-page-215580732.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\k3s-backend-datastore-171442249.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\k3s-backend-datastore-171376724.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\k3s-backend-datastore-171376701.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222756875.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-change-the-hostname-on-ubuntu-server-222724100.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-224460869.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-223870991.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247595058.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247463950.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255524870.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250118169.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250052628.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303567.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241270785.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240681022.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-end-to-end-fibre-channel-fc-configuration-for-netapp-and-vmware-vsphere-in-a-vdi-deployment-240418817.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223805481.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244350992.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-logon-script-mdt-244154389.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244187177.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-the-configuration-manager-client-agent-via-third-party-imaging-tools-244154400.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-257916930.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-219676736.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241696780.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052685.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052674.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\netplan-139001935.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\netplan-139001925.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460836.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224395356.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222822413.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-223805444.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-architectures-240582698.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-architectures-158433576.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240681033.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240615465.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-240582726.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\storage-engineering-table-of-contents-237305905.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\stream-editor-sed-203948073.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\stream-editor-sed-203718710.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-272433154.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-adventurer-s-guide-to-modern-ram-242548805.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-272433167.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-arcane-codex-uefi-bios-explained-242614342.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-272334858.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-motherboard-codex-a-d-d-guide-to-choosing-the-right-motherboard-for-your-business-party-242614277.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-252084233.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240812035.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956696.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245956721.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219676773.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-are-path-vector-protocol-219578499.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-251428952.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-246972419.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245956708.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-1-2-vdi-fundamentals-platform-comparison-deep-dive-differentiators-strategic-selection-245989557.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-231997505.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-3-manage-azure-subscriptions-and-governance-part-ii-231964746.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-how-typical-citrix-virtual-apps-and-desktops-deployments-work-245923914.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-how-typical-citrix-virtual-apps-and-desktops-deployments-work-246153258.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-pre-requisites-for-learning-ansible-219578385.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\1-pre-requisites-for-learning-ansible-237043786.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\12-ansible-modules-plugins-part-2-237109267.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\12-ansible-modules-plugins-part-2-237109279.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\13-ansible-filters-237043748.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\13-ansible-filters-237174798.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\2-introduction-to-ansible-219578547.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\2-introduction-to-ansible-221315087.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\3-ansible-components-221249569.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\3-ansible-components-221544465.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-1-advanced-techniques-to-target-specific-managed-nodes-225476663.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-1-advanced-techniques-to-target-specific-managed-nodes-225509446.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-225509426.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-232947717.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-cpu-central-processing-unit-242581508.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\anatomy-of-a-modern-cpu-central-processing-unit-242614289.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\arch-linux-install-203751428.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\arch-linux-install-203751469.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\autounattend-breakdown-101384193.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\autounattend-breakdown-101842945.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249167919.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249200684.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249266199.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\basic-bash-scripting-and-next-steps-for-higher-level-scripting-219578525.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\basic-bash-scripting-and-next-steps-for-higher-level-scripting-219676815.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\citrix-vdi-access-methods-245956634.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\citrix-vdi-access-methods-246153220.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-ii-239697981.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\create-and-configure-virtual-machines-part-ii-239730713.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-1-227246117.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-1-232914948.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-2-232882182.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\creating-advanced-playbooks-part-2-232980485.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\disk-terminology-139132953.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\disk-terminology-221478948.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\enabling-ssh-on-a-windows-11-machine-154402892.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\enabling-ssh-on-a-windows-11-machine-232030248.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-260112417.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-261750791.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\high-availability-in-configuration-manager-244154447.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\high-availability-in-configuration-manager-244220006.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-20447233.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-21495810.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-21626892.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22085634.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22216706.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22609941.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22675474.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22577297.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22610032.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22675502.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-22675568.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-23265294.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-23429122.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-23429134.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-23658497.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-92995586.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\horizon-view-245956615.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-cleanly-remove-all-group-policy-settings-on-windows-241762313.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-cleanly-remove-all-group-policy-settings-on-windows-241860649.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-keep-linux-repo-packages-under-control-223805456.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-keep-linux-repo-packages-under-control-223805468.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-reset-root-password-debian-based-215613442.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-reset-root-password-debian-based-215646229.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-resource-management-iii-231932075.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-resource-management-iii-231997541.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-storage-231964788.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\introduction-to-azure-storage-233406477.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-configuration-manager-client-agent-push-installation-method-185991197.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-configuration-manager-client-agent-push-installation-method-244219907.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-set-a-static-ip-address-and-dns-servers-in-linux-222756889.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-how-to-set-a-static-ip-address-and-dns-servers-in-linux-222920717.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-install-a-site-server-for-configuration-manager-185827338.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-article-install-a-site-server-for-configuration-manager-185860116.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-building-and-configuring-the-state-migration-point-role-and-fallback-status-point-role-244187238.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-building-and-configuring-the-state-migration-point-role-and-fallback-status-point-role-244318238.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109357.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-237109370.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-chipsets-lanes-and-buses-272367621.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303556.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303567.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-install-and-configure-the-distribution-point-role-244908069.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-install-and-configure-the-distribution-point-role-in-configuration-manager-sccm-246906895.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223969306.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246906948.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246939737.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257064964.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257228810.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250183727.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250249235.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-managing-multiple-netplan-configuration-files-222789650.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-managing-multiple-netplan-configuration-files-223051794.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-scep-ndes-configuration-and-best-practices-240746534.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-scep-ndes-configuration-and-best-practices-241795083.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973581.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973600.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-key-size-hash-functions-and-best-practices-244547585.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-key-size-hash-functions-and-best-practices-244547597.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-246939655.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-247103500.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-the-sspi-client-process-in-windows-authentication-245334021.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-the-sspi-client-process-in-windows-authentication-245432323.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-using-sed-for-text-manipulation-in-linux-unix-219676840.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-using-sed-for-text-manipulation-in-linux-unix-237305885.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-250216552.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-261718045.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-246906883.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-251428968.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-246972444.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-250216483.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250052618.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250183704.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\load-balancing-with-uags-and-multiple-connection-servers-23429146.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\load-balancing-with-uags-and-multiple-connection-servers-23429158.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\load-balancing-with-uags-and-multiple-connection-servers-23461890.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\load-balancing-with-uags-and-multiple-connection-servers-23494658.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\load-balancing-with-uags-and-multiple-connection-servers-9502775.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-241860620.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244482101.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-kerberos-authentication-architecture-flow-and-use-cases-244514837.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-security-components-for-engineers-244351060.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\microsoft-security-components-for-engineers-244482138.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297804.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297816.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\multi-core-processors-218398776.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\multi-core-processors-218464283.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\network-troubleshooting-basics-12124215.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\network-troubleshooting-basics-219578427.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251297828.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251330566.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-250052711.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-259948545.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250183849.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250249347.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251199497.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251265025.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\pci-peripheral-component-interconnect-and-pcie-peripheral-component-interconnect-express-218300487.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\pci-peripheral-component-interconnect-and-pcie-peripheral-component-interconnect-express-218365971.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\pre-requisites-for-learning-ansible-219676853.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\pre-requisites-for-learning-ansible-221282310.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\public-key-infrastructure-pki-240582748.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\public-key-infrastructure-pki-240681069.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\repositories-138346667.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\repositories-138346679.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ruby-vsphere-console-20480001.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ruby-vsphere-console-20774913.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246677505.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246710276.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-247103489.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-222887944.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224362543.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-ansible-training-testing-environment-224460857.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224002051.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249167951.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249233437.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-block-storage-architecture-components-and-use-cases-13729838.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-block-storage-architecture-components-and-use-cases-240681057.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-iscsi-internet-small-computer-system-interface-13729850.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-iscsi-internet-small-computer-system-interface-240582662.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-object-storage-architecture-components-and-use-cases-13729814.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-object-storage-architecture-components-and-use-cases-240582714.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-240680985.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\understanding-small-computer-system-interface-scsi-252084233.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349861.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-246349875.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989534.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vdi-engineer-knowledge-base-outline-245989500.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vmware-blast-extreme-185499684.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\vmware-blast-extreme-22642721.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-k3s-171278371.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-k3s-171376736.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002973.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-radius-233406465.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-radius-241729566.md",
+      "action": "set_near_duplicate"
+    }
+  ]
+}

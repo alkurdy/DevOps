@@ -1,0 +1,274 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 600,
+  "files_modified": 43,
+  "replacements_total": 308,
+  "replacements_by_type": {
+    "email": 4,
+    "phone": 0,
+    "ssn": 0,
+    "aws_access_key": 0,
+    "secret_assignment": 5,
+    "internal_ip": 299
+  },
+  "files": [
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-225509426.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\6-ansible-inventory-basics-232947717.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ansible-modules-plugins-237174788.md",
+      "replacements": {
+        "secret_assignment": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ansible-modules-plugins-part-1-237043715.md",
+      "replacements": {
+        "secret_assignment": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\azure-network-security-dns-securing-vm-access-paas-connectivity-and-advanced-dns-configurations-250413105.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\binary-in-networking-251002929.md",
+      "replacements": {
+        "internal_ip": 14
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\bind9-named-dns-how-to-add-a-cname-and-ptr-records-224460880.md",
+      "replacements": {
+        "internal_ip": 5
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-git-authentication-basics-216465411.md",
+      "replacements": {
+        "secret_assignment": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-setting-up-an-azure-virtual-desktop-avd-host-pool-from-start-to-finish-266371073.md",
+      "replacements": {
+        "secret_assignment": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-setting-up-an-internal-bind9-dns-server-on-ubuntu-222789661.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-windows-copy-via-scp-251625484.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-active-directory-and-non-routable-domain-suffixes-255361027.md",
+      "replacements": {
+        "email": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cidr-classless-inter-domain-routing-219578459.md",
+      "replacements": {
+        "internal_ip": 23
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-223870991.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-224460869.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-differences-between-windows-server-standard-and-datacenter-editions-241303556.md",
+      "replacements": {
+        "email": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-dnat-snat-nat-165117954.md",
+      "replacements": {
+        "internal_ip": 7
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-essential-subnetting-formulas-and-concepts-250249257.md",
+      "replacements": {
+        "internal_ip": 3
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223805481.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223871003.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-how-to-permanently-set-a-custom-dns-server-on-ubuntu-bypassing-systemd-resolved-223969306.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-practical-subnetting-guide-for-network-design-250085396.md",
+      "replacements": {
+        "internal_ip": 30
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-subnetting-219578438.md",
+      "replacements": {
+        "internal_ip": 27
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973581.md",
+      "replacements": {
+        "internal_ip": 7
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-boundaries-and-boundary-groups-in-configuration-manager-244973600.md",
+      "replacements": {
+        "internal_ip": 7
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+      "replacements": {
+        "internal_ip": 5
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+      "replacements": {
+        "internal_ip": 5
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-source-ip-address-behavior-in-network-routing-250216462.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-copy-via-scp-160071681.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kbase-subnetting-250183765.md",
+      "replacements": {
+        "internal_ip": 27
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kbase-subnetting-251428900.md",
+      "replacements": {
+        "internal_ip": 27
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-address-resolution-protocol-arp-12025857.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-configuring-dns-queries-with-systemd-resolved-on-a-bind9-server-223903764.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-kb-on-cidr-classless-inter-domain-routing-250183749.md",
+      "replacements": {
+        "internal_ip": 23
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-kb-on-subnetting-250052645.md",
+      "replacements": {
+        "internal_ip": 27
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-azure-secure-access-dns-service-connectivity-250642445.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-azure-virtual-networking-vnet-peering-public-ips-routing-250576900.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\practical-subnetting-guide-for-network-design-256868368.md",
+      "replacements": {
+        "internal_ip": 30
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\routing-and-switching-basics-l2-vs-l3-devices-251428922.md",
+      "replacements": {
+        "internal_ip": 1
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-223805444.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224002051.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\setting-up-an-internal-bind9-dns-server-on-ubuntu-224067586.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\the-osi-and-tcp-ip-models-a-layered-architecture-deep-dive-250052696.md",
+      "replacements": {
+        "internal_ip": 2
+      }
+    }
+  ]
+}
