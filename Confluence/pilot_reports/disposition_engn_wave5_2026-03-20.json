@@ -1,0 +1,217 @@
+{
+  "changed_files": 53,
+  "changes": [
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255524870.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-257916930.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-219676736.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+      "action": "set_primary"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+      "action": "set_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-260112417.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-261750791.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257064964.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257228810.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-246906883.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-251428968.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297804.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297816.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251297828.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251330566.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251199497.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251265025.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+      "action": "set_near_duplicate"
+    },
+    {
+      "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+      "action": "set_near_duplicate"
+    }
+  ]
+}
