@@ -1,0 +1,1317 @@
+{
+  "base": "Texts\\Converted\\Confluence\\ENGN",
+  "files_scanned": 225,
+  "topics_with_multiple_pages": 36,
+  "exact_duplicate_groups": [
+    {
+      "canonical_topic_id": "topic.configuring.and.managing.virtual.networking.in",
+      "content_fingerprint": "087bca6c79105cd8a1368cb0046acb6db6717b9dae56f5b40198151ef8300703",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445844.md",
+          "page_id": "250445844",
+          "title": "Configuring and Managing Virtual Networking in Azure Part I"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-and-managing-virtual-networking-in-azure-part-i-250445867.md",
+          "page_id": "250445867",
+          "title": "Configuring and Managing Virtual Networking in Azure - Part I"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.configuring.role.based.permissions.in.microsoft",
+      "content_fingerprint": "d63f5c19b4d7b16227768bda5f6c0432ecf246950f6c099dd5c88156db7b037c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-247627846.md",
+          "page_id": "247627846",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\configuring-role-based-permissions-in-microsoft-configuration-manager-part-1-247529533.md",
+          "page_id": "247529533",
+          "title": "Configuring Role-Based Permissions in Microsoft Configuration Manager Part 1"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "content_fingerprint": "ac413cb7d264d594d78bea4935e3d1c9b2ae78377b4359b4d7807d5de1da81e2",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+          "page_id": "242548791",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+          "page_id": "251002940",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+          "page_id": "251002955",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+          "page_id": "251428887",
+          "title": "End-to-End Networking for Cloud Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+          "page_id": "251428910",
+          "title": "End-to-End Networking for Cloud Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "b8fa5eacd0ef54d2113c1ea2c5242a7aa0a2a59fb1ad3738da8414a904b82a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+          "page_id": "257916960",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+          "page_id": "258146307",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+          "page_id": "258310173",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "content_fingerprint": "e76d7d05ed9bfd579b7948d83fdaf021c7c79194bf2612941829870fc0111a3a",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+          "page_id": "258113537",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+          "page_id": "258146339",
+          "title": "F5 BIG-IP - VDI Outline"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+          "page_id": "258211864",
+          "title": "F5 BIG-IP - VDI Outline"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.how.to.linux.nfs.mounting.guide",
+      "content_fingerprint": "32f2b3f40190c5266d764196e666113940b59867dd148599afdc32a62977318c",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765441.md",
+          "page_id": "264765441",
+          "title": "How-To: Linux NFS Mounting Guide"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\how-to-linux-nfs-mounting-guide-264765454.md",
+          "page_id": "264765454",
+          "title": "How-To: Linux NFS Mounting Guide"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.configuring.firewalls.and.dns.for",
+      "content_fingerprint": "16d19f5c756b640159f881a3cf0d98cba604290a53e639ac52974262ed09c565",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247463950.md",
+          "page_id": "247463950",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-configuring-firewalls-and-dns-for-internet-based-client-management-247595058.md",
+          "page_id": "247595058",
+          "title": "KB: Configuring Firewalls and DNS for Internet-Based Client Management"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "content_fingerprint": "3498b68ae9a6e0f7478cf2b83c2c9717ec3ff269ad64789df093bc7d5a030fb3",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+          "page_id": "255229992",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+          "page_id": "255328282",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255524870.md",
+          "page_id": "255524870",
+          "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.deploying.microsoft.365.apps.with",
+      "content_fingerprint": "05eff69819032ebc2cf37e972ac95ca830eb9b6cbb17a7ba2474960e793062b6",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250052628.md",
+          "page_id": "250052628",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-deploying-microsoft-365-apps-with-odt-including-machine-based-activation-for-vdi-250118169.md",
+          "page_id": "250118169",
+          "title": "KB: Deploying Microsoft 365 Apps with ODT (Including Machine-Based Activation for VDI)"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.kb.load.balancing.across.layers.3",
+      "content_fingerprint": "eefee8a8c6ca3332ae4213d33c3fe197e8b79d54dce5359cf5ed20c325647d26",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-219676736.md",
+          "page_id": "219676736",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\kb-load-balancing-across-layers-3-4-and-7-of-the-osi-model-257916930.md",
+          "page_id": "257916930",
+          "title": "KB: Load Balancing Across Layers 3, 4, and 7 of the OSI Model"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.multi.rack.top.of.rack.switch",
+      "content_fingerprint": "4578331accccbd410ab848f5dcba3180f9f27c36593c3b9fb5ef24cac0c3f040",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052674.md",
+          "page_id": "250052674",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\multi-rack-top-of-rack-switch-design-and-best-practices-250052685.md",
+          "page_id": "250052685",
+          "title": "Multi-Rack Top-of-Rack Switch Design and Best Practices"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "306fbcccaf0efc5afa55f8fbe1493882811adf1d1c11ae8bc55ec7c6f31aea85",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+          "page_id": "260112397",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+          "page_id": "260145177",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "content_fingerprint": "fc16549b295f1ea4577027557b603007c7cd9ca5b9435363020333893f627e49",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+          "page_id": "260145191",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+          "page_id": "261783553",
+          "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.what.is.networking.concepts.devices.and",
+      "content_fingerprint": "767943873a356d76ae99c5232fc20cd7c0642712d60747b3d68d35ff23898fba",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-242647086.md",
+          "page_id": "242647086",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\what-is-networking-concepts-devices-and-terminology-251002985.md",
+          "page_id": "251002985",
+          "title": "What is Networking? \u2013 Concepts, Devices, and Terminology"
+        }
+      ]
+    },
+    {
+      "canonical_topic_id": "topic.windows.activation.methods.for.nonpersistent.vdi",
+      "content_fingerprint": "49a95d94bc3da1abc9886ff94f045c2125a005fd3049aee7a6a008b9dd896777",
+      "members": [
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-246972419.md",
+          "page_id": "246972419",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        },
+        {
+          "file": "Texts\\Converted\\Confluence\\ENGN\\windows-activation-methods-for-nonpersistent-vdi-251428952.md",
+          "page_id": "251428952",
+          "title": "\ud83d\udda5\ufe0f Windows Activation Methods for Nonpersistent VDI"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9971,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249167919.md",
+        "page_id": "249167919",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249200684.md",
+        "page_id": "249200684",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9785,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249167919.md",
+        "page_id": "249167919",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249266199.md",
+        "page_id": "249266199",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.azure.container.apps.aca",
+      "similarity": 0.9813,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249200684.md",
+        "page_id": "249200684",
+        "title": "Azure Container Apps (ACA)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\azure-container-apps-aca-249266199.md",
+        "page_id": "249266199",
+        "title": "Azure Container Apps (ACA)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-242548791.md",
+        "page_id": "242548791",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002940.md",
+        "page_id": "251002940",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251002955.md",
+        "page_id": "251002955",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428887.md",
+        "page_id": "251428887",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.end.to.end.networking.for.cloud",
+      "similarity": 0.9984,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428865.md",
+        "page_id": "251428865",
+        "title": "End-to-End Networking for Cloud Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\end-to-end-networking-for-cloud-engineers-251428910.md",
+        "page_id": "251428910",
+        "title": "End-to-End Networking for Cloud Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-257916960.md",
+        "page_id": "257916960",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258113537.md",
+        "page_id": "258113537",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146307.md",
+        "page_id": "258146307",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258146339.md",
+        "page_id": "258146339",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.f5.big.ip.vdi.outline",
+      "similarity": 0.9876,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258211864.md",
+        "page_id": "258211864",
+        "title": "F5 BIG-IP - VDI Outline"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\f5-big-ip-vdi-outline-258310173.md",
+        "page_id": "258310173",
+        "title": "F5 BIG-IP - VDI Outline"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.from.file.chaos.to.database.efficiency",
+      "similarity": 0.9244,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-260112417.md",
+        "page_id": "260112417",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\from-file-chaos-to-database-efficiency-managing-data-as-a-strategic-resource-261750791.md",
+        "page_id": "261750791",
+        "title": "From File Chaos to Database Efficiency: Managing Data as a Strategic Resource"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.azure.traffic.manager.and.azure",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567683.md",
+        "page_id": "266567683",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-azure-traffic-manager-and-azure-front-door-in-azure-virtual-desktop-avd-266567698.md",
+        "page_id": "266567698",
+        "title": "KB: Azure Traffic Manager and Azure Front Door in Azure Virtual Desktop (AVD)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "similarity": 0.9049,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255229992.md",
+        "page_id": "255229992",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+        "page_id": "255262747",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.cross.domain.kerberos.authentication.flow",
+      "similarity": 0.9049,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-1-255328282.md",
+        "page_id": "255328282",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario 1"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-cross-domain-kerberos-authentication-flow-in-a-bidirectional-trust-scenario-255262747.md",
+        "page_id": "255262747",
+        "title": "KB: Cross-Domain Kerberos Authentication Flow in a Bidirectional Trust Scenario"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.installing.a.central.administration.site",
+      "similarity": 0.964,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246906948.md",
+        "page_id": "246906948",
+        "title": "KB: Installing a Central Administration Site (CAS)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-installing-a-central-administration-site-cas-246939737.md",
+        "page_id": "246939737",
+        "title": "KB: Installing a Central Administration Site (CAS)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.intel.vpro.technology.integration.into",
+      "similarity": 0.9958,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257064964.md",
+        "page_id": "257064964",
+        "title": "KB: Intel vPro Technology: Integration into the EUC/MDM Lifecycle and Support"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-intel-vpro-technology-integration-into-the-euc-mdm-lifecycle-and-support-257228810.md",
+        "page_id": "257228810",
+        "title": "KB: Intel vPro Technology: Integration into the EUC/MDM Lifecycle and Support"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.machine.based.activation.mba.for",
+      "similarity": 0.9614,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250183727.md",
+        "page_id": "250183727",
+        "title": "KB: Machine-Based Activation (MBA) for Microsoft 365 in VDI: License Storage & Refresh Behavior"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-machine-based-activation-mba-for-microsoft-365-in-vdi-license-storage-refresh-behavior-250249235.md",
+        "page_id": "250249235",
+        "title": "KB: Machine-Based Activation (MBA) for Microsoft 365 in VDI: License Storage & Refresh Behavior"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.network.and.host.bits",
+      "similarity": 0.9688,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-256802821.md",
+        "page_id": "256802821",
+        "title": "KB: Understanding Network and Host Bits in Subnetting"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-network-and-host-bits-in-subnetting-257130498.md",
+        "page_id": "257130498",
+        "title": "KB: Understanding Network and Host Bits in Subnetting"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.understanding.san.controller.rack.failure",
+      "similarity": 0.997,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-246939655.md",
+        "page_id": "246939655",
+        "title": "KB: Understanding SAN Controller Rack Failure Impact and Best Practices"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-understanding-san-controller-rack-failure-impact-and-best-practices-247103500.md",
+        "page_id": "247103500",
+        "title": "KB: Understanding SAN Controller Rack Failure Impact and Best Practices"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.953,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9098,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266338369.md",
+        "page_id": "266338369",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.vmware.cluster.configuration.vm.host",
+      "similarity": 0.9164,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266469409.md",
+        "page_id": "266469409",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-vmware-cluster-configuration-vm-host-groups-vm-host-rules-and-vm-overrides-266502159.md",
+        "page_id": "266502159",
+        "title": "KB: VMware Cluster Configuration - VM/Host Groups, VM/Host Rules, and VM Overrides"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.what.is.database.sharding",
+      "similarity": 0.9843,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-250216552.md",
+        "page_id": "250216552",
+        "title": "KB: What is Database Sharding?"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-what-is-database-sharding-261718045.md",
+        "page_id": "261718045",
+        "title": "KB: What is Database Sharding?"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.kb.windows.activation.methods.for.nonpersistent",
+      "similarity": 0.9921,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-246906883.md",
+        "page_id": "246906883",
+        "title": "KB: Windows Activation Methods for Nonpersistent VDI"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\kb-windows-activation-methods-for-nonpersistent-vdi-251428968.md",
+        "page_id": "251428968",
+        "title": "KB: Windows Activation Methods for Nonpersistent VDI"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.knowledge.base.article.internet.group.management",
+      "similarity": 0.9823,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-246972444.md",
+        "page_id": "246972444",
+        "title": "\ud83d\udcd8 Knowledge Base Article: Internet Group Management Protocol (IGMP)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-article-internet-group-management-protocol-igmp-250216483.md",
+        "page_id": "250216483",
+        "title": "\ud83d\udcd8 Knowledge Base Article: Internet Group Management Protocol (IGMP)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.knowledge.base.deploying.microsoft.365.apps",
+      "similarity": 0.9998,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250052618.md",
+        "page_id": "250052618",
+        "title": "Knowledge Base: Deploying Microsoft 365 Apps & Visio Using the Office Deployment Tool (ODT)"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\knowledge-base-deploying-microsoft-365-apps-visio-using-the-office-deployment-tool-odt-250183704.md",
+        "page_id": "250183704",
+        "title": "Knowledge Base: Deploying Microsoft 365 Apps & Visio Using the Office Deployment Tool (ODT)"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.monitor.resources.in.azure",
+      "similarity": 0.9826,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297804.md",
+        "page_id": "251297804",
+        "title": "Monitor Resources in Azure"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\monitor-resources-in-azure-251297816.md",
+        "page_id": "251297816",
+        "title": "Monitor Resources in Azure"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.ntfs.and.refs",
+      "similarity": 0.9806,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251297828.md",
+        "page_id": "251297828",
+        "title": "NTFS and ReFS"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\ntfs-and-refs-251330566.md",
+        "page_id": "251330566",
+        "title": "NTFS and ReFS"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.database.design.for.data.engineers",
+      "similarity": 0.9805,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-250052711.md",
+        "page_id": "250052711",
+        "title": "Outline: Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-database-design-for-data-engineers-systems-engineers-259948545.md",
+        "page_id": "259948545",
+        "title": "Outline: Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.euc.systems.engineer.storage.solutions",
+      "similarity": 0.9824,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250183849.md",
+        "page_id": "250183849",
+        "title": "Outline: EUC Systems Engineer Storage Solutions"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-euc-systems-engineer-storage-solutions-250249347.md",
+        "page_id": "250249347",
+        "title": "Outline: EUC Systems Engineer Storage Solutions"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.outline.monitoring.and.logging.in.azure",
+      "similarity": 0.96,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251199497.md",
+        "page_id": "251199497",
+        "title": "Outline: Monitoring and Logging in Azure with Azure Monitor and Log Analytics"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\outline-monitoring-and-logging-in-azure-with-azure-monitor-and-log-analytics-251265025.md",
+        "page_id": "251265025",
+        "title": "Outline: Monitoring and Logging in Azure with Azure Monitor and Log Analytics"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.runbook.hypervisor.server.deployment",
+      "similarity": 0.9748,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-246677505.md",
+        "page_id": "246677505",
+        "title": "Runbook: Hypervisor Server Deployment"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\runbook-hypervisor-server-deployment-247103489.md",
+        "page_id": "247103489",
+        "title": "Runbook: Hypervisor Server Deployment"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.sizing.and.scaling.containers.in.azure",
+      "similarity": 0.9699,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249167951.md",
+        "page_id": "249167951",
+        "title": "Sizing and Scaling Containers in Azure"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\sizing-and-scaling-containers-in-azure-249233437.md",
+        "page_id": "249233437",
+        "title": "Sizing and Scaling Containers in Azure"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9923,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9758,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9848,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9744,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.977,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-250183825.md",
+        "page_id": "250183825",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9836,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9925,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9822,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9773,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9696,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915790.md",
+        "page_id": "259915790",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9781,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9878,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9938,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9863,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-259915811.md",
+        "page_id": "259915811",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260112397.md",
+        "page_id": "260112397",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9897,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9715,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9637,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145155.md",
+        "page_id": "260145155",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9616,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9539,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145177.md",
+        "page_id": "260145177",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-260145191.md",
+        "page_id": "260145191",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    },
+    {
+      "canonical_topic_id": "topic.table.of.contents.database.design.for",
+      "similarity": 0.9926,
+      "a": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783553.md",
+        "page_id": "261783553",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      },
+      "b": {
+        "file": "Texts\\Converted\\Confluence\\ENGN\\table-of-contents-database-design-for-data-engineers-systems-engineers-261783564.md",
+        "page_id": "261783564",
+        "title": "Table of Contents - Database Design for Data Engineers & Systems Engineers"
+      }
+    }
+  ],
+  "actionable_exact_duplicate_groups": [],
+  "actionable_exact_duplicate_group_count": 0
+}
