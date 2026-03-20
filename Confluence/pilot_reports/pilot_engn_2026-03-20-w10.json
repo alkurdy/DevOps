@@ -1,0 +1,14 @@
+{
+  "run_at": "2026-03-20T14:52:01",
+  "phase": "phase3-controlled-pilot",
+  "space_key": "ENGN",
+  "limit_requested": 250,
+  "pages_eligible": 902,
+  "pages_processed": 250,
+  "chunks_created": 3157,
+  "failures": [],
+  "staged_zip": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Originals\\Confluence\\ENGN\\2026-03-20-w10\\Confluence-export-space-engn.zip",
+  "converted_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Converted\\Confluence\\ENGN",
+  "chunked_dir": "C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\Texts\\Chunked\\Confluence\\ENGN",
+  "manual_gate_required": true
+}
