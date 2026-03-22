@@ -106,7 +106,7 @@ def main() -> None:
         out_md.parent.mkdir(parents=True, exist_ok=True)
 
         try:
-            if ext == ".md":
+            if ext in {".md", ".txt"}:
                 out_md.write_text(src.read_text(encoding="utf-8", errors="replace"), encoding="utf-8")
             else:
                 try:

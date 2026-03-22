@@ -1,6 +1,6 @@
 # Books Index Summary
 
-- Generated: 2026-03-20T16:02:24
+- Generated: 2026-03-21T22:10:57
 - Books root: D:\Books
 - Converted root: D:\Books\ConvertedAI
 - Chunked root: D:\Books\ChunkedAI
@@ -27,9 +27,9 @@
 - .txt: 64
 
 ## Processing Status
-- pending: 5
+- pending: 3
 - converted: 186
-- chunked: 426
+- chunked: 428
 
 ## Outputs
 - books_index.json

@@ -59,3 +59,32 @@ c:/Users/alkur/OneDrive/Documents/DevOps/.venv/Scripts/python.exe DevOps/BooksPi
 Recommended cadence:
 - Daily quick run: `--limit 50`
 - Weekly bulk run: `--limit 100` to `--limit 200`
+
+## One-Shot Automation
+
+Run batches with logging and automatic stop conditions:
+
+```powershell
+powershell.exe -ExecutionPolicy Bypass -File DevOps/BooksPipeline/run_batches.ps1 -UntilEmpty -MaxBatches 25 -Limit 100
+```
+
+Outputs are written to `DevOps/BooksPipeline/logs/`:
+- `run_batches_YYYYMMDD_HHMMSS.log`
+- `run_batches_YYYYMMDD_HHMMSS.json`
+
+The script stops automatically when:
+- pending reaches `0`
+- no files are selected
+- pending fails to improve across consecutive batches
+
+## Pending Diagnostics
+
+To inspect why remaining files stay pending:
+
+```powershell
+c:/Users/alkur/OneDrive/Documents/DevOps/.venv/Scripts/python.exe DevOps/BooksPipeline/diagnose_pending.py --limit 100
+```
+
+Outputs:
+- `pending_diagnostics.json`
+- `pending_diagnostics.md`

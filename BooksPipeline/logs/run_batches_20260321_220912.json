@@ -1,0 +1,21 @@
+﻿{
+    "started_at":  "2026-03-21T22:09:12",
+    "ended_at":  "2026-03-21T22:09:18",
+    "until_empty":  false,
+    "requested_batches":  1,
+    "limit":  10,
+    "total_elapsed_seconds":  6.5,
+    "records":  [
+                    {
+                        "batch":  1,
+                        "selected":  5,
+                        "converted_ok":  0,
+                        "chunked_ok":  0,
+                        "failed":  5,
+                        "pending":  5,
+                        "converted":  186,
+                        "chunked":  426,
+                        "elapsed_seconds":  6.4
+                    }
+                ]
+}
