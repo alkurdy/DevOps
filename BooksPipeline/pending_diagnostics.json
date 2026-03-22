@@ -1,29 +1,4 @@
 {
-  "count": 3,
-  "items": [
-    {
-      "relative_path": "Systems_Thinking/History_Politics/Slav/Russian, My Daily - Russian Grammar for Beginners Textbook.mobi",
-      "extension": ".mobi",
-      "exists": "True",
-      "supported": "True",
-      "status": "error",
-      "reason": "Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported. || Traceback (most recent call last): |   File \"C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\BooksPipeline\\diagnose_pending.py\", line 66, in main |     _ = md.convert(str(src)) |         ^^^^^^^^^^^^^^^^^^^^ | markitdown._exceptions.UnsupportedFormatException: Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported."
-    },
-    {
-      "relative_path": "Writing/PracticeTexts_Analysis/Crime and punishment a novel in six parts with epilogue.mobi",
-      "extension": ".mobi",
-      "exists": "True",
-      "supported": "True",
-      "status": "error",
-      "reason": "Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported. || Traceback (most recent call last): |   File \"C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\BooksPipeline\\diagnose_pending.py\", line 66, in main |     _ = md.convert(str(src)) |         ^^^^^^^^^^^^^^^^^^^^ | markitdown._exceptions.UnsupportedFormatException: Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported."
-    },
-    {
-      "relative_path": "Writing/Tier_00-20_Foundations/Eats, shoots and leaves.mobi",
-      "extension": ".mobi",
-      "exists": "True",
-      "supported": "True",
-      "status": "error",
-      "reason": "Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported. || Traceback (most recent call last): |   File \"C:\\Users\\alkur\\OneDrive\\Documents\\DevOps\\BooksPipeline\\diagnose_pending.py\", line 66, in main |     _ = md.convert(str(src)) |         ^^^^^^^^^^^^^^^^^^^^ | markitdown._exceptions.UnsupportedFormatException: Could not convert stream to Markdown. No converter attempted a conversion, suggesting that the filetype is simply not supported."
-    }
-  ]
+  "count": 0,
+  "items": []
 }

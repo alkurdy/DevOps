@@ -88,3 +88,13 @@ c:/Users/alkur/OneDrive/Documents/DevOps/.venv/Scripts/python.exe DevOps/BooksPi
 Outputs:
 - `pending_diagnostics.json`
 - `pending_diagnostics.md`
+
+## MOBI Support (Calibre Fallback)
+
+`export_books_ai.py` now attempts MOBI conversion through Calibre `ebook-convert` when direct conversion fails.
+
+Install Calibre (or ensure `ebook-convert.exe` is on `PATH`) to enable this fallback on Windows:
+
+```powershell
+choco install calibre -y
+```

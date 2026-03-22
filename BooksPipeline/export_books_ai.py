@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -22,6 +23,21 @@ SUPPORTED_EXTS = {".pdf", ".epub", ".mobi", ".docx", ".html", ".htm", ".txt", ".
 
 
 EUC_EXTRACTOR = Path(r"C:\Users\alkur\OneDrive\Documents\EUC\PDF\tools\extract_text.py")
+CALIBRE_CANDIDATES = [
+    r"C:\Program Files\Calibre2\ebook-convert.exe",
+    r"C:\Program Files (x86)\Calibre2\ebook-convert.exe",
+]
+
+
+def find_ebook_convert() -> str | None:
+    """Locate Calibre ebook-convert executable if available."""
+    exe = shutil.which("ebook-convert.exe") or shutil.which("ebook-convert")
+    if exe:
+        return exe
+    for p in CALIBRE_CANDIDATES:
+        if Path(p).exists():
+            return p
+    return None
 
 
 def safe_name(s: str) -> str:
@@ -122,6 +138,29 @@ def main() -> None:
                         )
                         if r.returncode != 0:
                             raise RuntimeError(r.stderr.strip() or str(ex))
+                    elif ext == ".mobi":
+                        ebook_convert = find_ebook_convert()
+                        if not ebook_convert:
+                            raise RuntimeError(
+                                "MOBI conversion requires Calibre 'ebook-convert'. Install Calibre or add ebook-convert.exe to PATH."
+                            )
+
+                        temp_epub = out_md.with_suffix(".tmp.epub")
+                        r = subprocess.run(
+                            [ebook_convert, str(src), str(temp_epub)],
+                            check=False,
+                            capture_output=True,
+                            text=True,
+                        )
+                        if r.returncode != 0 or not temp_epub.exists():
+                            raise RuntimeError(r.stderr.strip() or r.stdout.strip() or str(ex))
+
+                        try:
+                            result = md.convert(str(temp_epub))
+                            out_md.write_text(result.text_content, encoding="utf-8")
+                        finally:
+                            if temp_epub.exists():
+                                temp_epub.unlink()
                     else:
                         raise
 
